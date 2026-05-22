@@ -1,0 +1,3233 @@
+course_id,major_group,enrollments
+AA-100,Anatomy and Physiology,2
+AA-100,Behavioral and Cognitive Neuroscience,1
+AA-100,Exercise Science,8
+AA-100,Health Promotion,3
+AA-100,Microbiology and Infectious Disease,1
+AA-101,Exercise Science,3
+AA-101,Health Promotion,1
+AB-480A2,Health Promotion,1
+AB-509,Microbiology and Infectious Disease,1
+ACT-205,Anatomy and Physiology,4
+ACT-205,Cell and Molecular Neuroscience,1
+ACT-205,Environmental and Public Health,2
+ACT-205,Exercise Science,14
+ACT-205,Health Promotion,19
+ACT-205,Microbiology and Infectious Disease,2
+ACT-205,Other,1
+ACT-210,Anatomy and Physiology,1
+ACT-210,Exercise Science,4
+ACT-210,Health Promotion,2
+ACT-210,Other,1
+ACT-220,Anatomy and Physiology,1
+ACT-220,Exercise Science,1
+ACT-220,Health Promotion,1
+AGED-110,Anatomy and Physiology,2
+AGED-110,Microbiology and Infectious Disease,2
+AGED-220,Anatomy and Physiology,1
+AGED-220,Microbiology and Infectious Disease,1
+AGED-330,Anatomy and Physiology,1
+AGRI-116,Anatomy and Physiology,4
+AGRI-116,Exercise Science,2
+AGRI-116,Microbiology and Infectious Disease,2
+AHS-280A1,Behavioral and Cognitive Neuroscience,1
+AHS-280A1,Exercise Science,1
+AHS-280A1,Health Promotion,1
+AHS-487B,Anatomy and Physiology,1
+AM-101,Exercise Science,1
+AM-110,Exercise Science,2
+AM-130,Anatomy and Physiology,1
+AM-130,Exercise Science,3
+AM-130,Health Promotion,1
+AM-130,Microbiology and Infectious Disease,2
+AM-143,Exercise Science,2
+AM-220,Exercise Science,2
+AM-250,Environmental and Public Health,1
+AM-250,Exercise Science,4
+AM-250,Microbiology and Infectious Disease,1
+AM-364,Anatomy and Physiology,1
+AMST-100,Anatomy and Physiology,1
+AMST-100,Cell and Molecular Neuroscience,1
+AMST-100,Exercise Science,8
+AMST-100,Health Promotion,2
+AMST-100,Microbiology and Infectious Disease,3
+AMST-100,Neuroscience,2
+AMST-101,Anatomy and Physiology,6
+AMST-101,Behavioral and Cognitive Neuroscience,4
+AMST-101,Cell and Molecular Neuroscience,1
+AMST-101,Environmental and Public Health,5
+AMST-101,Exercise Science,11
+AMST-101,Health Promotion,20
+AMST-101,Microbiology and Infectious Disease,1
+AMST-101,Other,3
+ANEQ-101,Anatomy and Physiology,10
+ANEQ-101,Exercise Science,10
+ANEQ-101,Health Promotion,4
+ANEQ-101,Microbiology and Infectious Disease,6
+ANEQ-101,Other,1
+ANEQ-102,Anatomy and Physiology,6
+ANEQ-102,Behavioral and Cognitive Neuroscience,2
+ANEQ-102,Exercise Science,2
+ANEQ-102,Health Promotion,2
+ANEQ-102,Microbiology and Infectious Disease,4
+ANEQ-102,Other,2
+ANEQ-105,Anatomy and Physiology,4
+ANEQ-105,Behavioral and Cognitive Neuroscience,1
+ANEQ-105,Exercise Science,3
+ANEQ-105,Health Promotion,1
+ANEQ-105,Microbiology and Infectious Disease,4
+ANEQ-115,Anatomy and Physiology,4
+ANEQ-115,Behavioral and Cognitive Neuroscience,2
+ANEQ-115,Exercise Science,2
+ANEQ-115,Microbiology and Infectious Disease,2
+ANEQ-180A2,Microbiology and Infectious Disease,1
+ANEQ-193,Anatomy and Physiology,4
+ANEQ-193,Exercise Science,6
+ANEQ-193,Health Promotion,3
+ANEQ-201B,Microbiology and Infectious Disease,2
+ANEQ-250,Anatomy and Physiology,2
+ANEQ-250,Exercise Science,2
+ANEQ-292,Anatomy and Physiology,1
+ANEQ-292,Exercise Science,1
+ANEQ-292,Microbiology and Infectious Disease,1
+ANEQ-293,Anatomy and Physiology,1
+ANEQ-293,Microbiology and Infectious Disease,1
+ANEQ-300A,Anatomy and Physiology,1
+ANEQ-300A,Exercise Science,1
+ANEQ-305,Anatomy and Physiology,3
+ANEQ-305,Exercise Science,1
+ANEQ-305,Microbiology and Infectious Disease,3
+ANEQ-310,Anatomy and Physiology,2
+ANEQ-320,Anatomy and Physiology,30
+ANEQ-320,Microbiology and Infectious Disease,3
+ANEQ-328,Anatomy and Physiology,2
+ANEQ-328,Microbiology and Infectious Disease,2
+ANEQ-334,Microbiology and Infectious Disease,1
+ANEQ-344,Microbiology and Infectious Disease,1
+ANEQ-345,Microbiology and Infectious Disease,1
+ANEQ-346,Microbiology and Infectious Disease,2
+ANEQ-351,Microbiology and Infectious Disease,2
+ANEQ-360,Anatomy and Physiology,2
+ANEQ-360,Microbiology and Infectious Disease,1
+ANEQ-365,Microbiology and Infectious Disease,2
+ANEQ-384,Anatomy and Physiology,1
+ANEQ-384,Microbiology and Infectious Disease,1
+ANEQ-440,Microbiology and Infectious Disease,1
+ANEQ-486,Microbiology and Infectious Disease,1
+ANEQ-487B,Microbiology and Infectious Disease,1
+ANEQ-522,Anatomy and Physiology,1
+ANTH-100,Anatomy and Physiology,2
+ANTH-100,Environmental and Public Health,1
+ANTH-100,Exercise Science,8
+ANTH-100,Health Promotion,4
+ANTH-100,Microbiology and Infectious Disease,3
+ANTH-100,Other,2
+ANTH-120,Anatomy and Physiology,2
+ANTH-120,Behavioral and Cognitive Neuroscience,2
+ANTH-120,Exercise Science,10
+ANTH-120,Health Promotion,4
+ANTH-120,Microbiology and Infectious Disease,2
+ANTH-120,Other,3
+ANTH-121,Anatomy and Physiology,1
+ANTH-121,Exercise Science,2
+ANTH-121,Health Promotion,1
+ANTH-121,Microbiology and Infectious Disease,1
+ANTH-140,Anatomy and Physiology,17
+ANTH-140,Behavioral and Cognitive Neuroscience,4
+ANTH-140,Cell and Molecular Neuroscience,2
+ANTH-140,Environmental and Public Health,2
+ANTH-140,Exercise Science,26
+ANTH-140,Health Promotion,12
+ANTH-140,Microbiology and Infectious Disease,7
+ANTH-140,Neuroscience,1
+ANTH-200,Anatomy and Physiology,10
+ANTH-200,Behavioral and Cognitive Neuroscience,2
+ANTH-200,Cell and Molecular Neuroscience,2
+ANTH-200,Environmental and Public Health,1
+ANTH-200,Exercise Science,15
+ANTH-200,Health Promotion,4
+ANTH-200,Microbiology and Infectious Disease,5
+ANTH-200,Neuroscience,2
+ANTH-200,Other,3
+ANTH-240,Anatomy and Physiology,1
+ANTH-240,Cell and Molecular Neuroscience,1
+ANTH-261,Exercise Science,1
+ANTH-274,Behavioral and Cognitive Neuroscience,1
+ANTH-274,Exercise Science,2
+ANTH-274,Neuroscience,1
+ANTH-275,Anatomy and Physiology,1
+ANTH-275,Microbiology and Infectious Disease,1
+ANTH-275,Other,1
+ANTH-356,Microbiology and Infectious Disease,1
+ANTH-372,Anatomy and Physiology,3
+ANTH-379,Exercise Science,2
+ANTH-379,Health Promotion,2
+AREC-202,Anatomy and Physiology,7
+AREC-202,Environmental and Public Health,1
+AREC-202,Exercise Science,10
+AREC-202,Health Promotion,4
+AREC-202,Microbiology and Infectious Disease,3
+AREC-202,Other,1
+AREC-222,Anatomy and Physiology,1
+AREC-222,Health Promotion,1
+AREC-222,Microbiology and Infectious Disease,1
+AREC-240,Environmental and Public Health,1
+AREC-240,Microbiology and Infectious Disease,1
+AREC-342,Environmental and Public Health,2
+AREC-342,Exercise Science,1
+AREC-342,Microbiology and Infectious Disease,1
+AREC-375,Microbiology and Infectious Disease,1
+ART-100,Anatomy and Physiology,47
+ART-100,Behavioral and Cognitive Neuroscience,18
+ART-100,Cell and Molecular Neuroscience,4
+ART-100,Environmental and Public Health,6
+ART-100,Exercise Science,107
+ART-100,Health Promotion,63
+ART-100,Microbiology and Infectious Disease,23
+ART-100,Neuroscience,3
+ART-100,Other,9
+ART-105,Exercise Science,1
+ART-105,Microbiology and Infectious Disease,1
+ART-110,Exercise Science,1
+ART-111,Exercise Science,1
+ART-120,Exercise Science,1
+ART-135,Anatomy and Physiology,1
+ART-135,Exercise Science,2
+ART-160,Exercise Science,1
+ART-170,Exercise Science,1
+ART-200,Health Promotion,3
+ART-236,Anatomy and Physiology,1
+ART-240,Anatomy and Physiology,1
+ART-275J,Anatomy and Physiology,1
+ART-275J,Exercise Science,1
+ART-340,Anatomy and Physiology,1
+AS-101,Behavioral and Cognitive Neuroscience,1
+AS-101,Exercise Science,6
+AS-101,Health Promotion,4
+AS-101,Other,1
+AS-102,Behavioral and Cognitive Neuroscience,1
+AS-102,Exercise Science,4
+AS-102,Health Promotion,3
+AS-196A,Behavioral and Cognitive Neuroscience,1
+AS-196A,Exercise Science,6
+AS-196A,Health Promotion,4
+AS-196A,Other,1
+AS-196B,Behavioral and Cognitive Neuroscience,1
+AS-196B,Exercise Science,4
+AS-196B,Health Promotion,3
+AS-201,Behavioral and Cognitive Neuroscience,1
+AS-201,Exercise Science,3
+AS-201,Health Promotion,3
+AS-202,Exercise Science,1
+AS-202,Health Promotion,1
+AS-296A,Behavioral and Cognitive Neuroscience,1
+AS-296A,Exercise Science,3
+AS-296A,Health Promotion,3
+AS-296B,Exercise Science,1
+AS-296B,Health Promotion,1
+AS-301,Exercise Science,1
+AS-301,Health Promotion,1
+AS-302,Exercise Science,1
+AS-396A,Exercise Science,1
+AS-396A,Health Promotion,1
+AS-396B,Exercise Science,1
+AS-401,Exercise Science,1
+AS-496A,Exercise Science,1
+ATS-150,Anatomy and Physiology,3
+ATS-150,Behavioral and Cognitive Neuroscience,1
+ATS-150,Exercise Science,2
+ATS-150,Health Promotion,3
+ATS-150,Microbiology and Infectious Disease,3
+ATS-350,Anatomy and Physiology,1
+ATS-350,Environmental and Public Health,3
+ATS-350,Exercise Science,2
+ATS-351,Anatomy and Physiology,1
+BC-192,Anatomy and Physiology,16
+BC-192,Behavioral and Cognitive Neuroscience,6
+BC-192,Environmental and Public Health,2
+BC-192,Exercise Science,10
+BC-192,Microbiology and Infectious Disease,8
+BC-192,Other,4
+BC-295,Anatomy and Physiology,1
+BC-351,Anatomy and Physiology,183
+BC-351,Behavioral and Cognitive Neuroscience,39
+BC-351,Environmental and Public Health,16
+BC-351,Exercise Science,22
+BC-351,Health Promotion,1
+BC-351,Microbiology and Infectious Disease,91
+BC-351,Other,9
+BC-401,Anatomy and Physiology,1
+BC-401,Behavioral and Cognitive Neuroscience,2
+BC-401,Cell and Molecular Neuroscience,33
+BC-401,Environmental and Public Health,1
+BC-401,Microbiology and Infectious Disease,1
+BC-403,Behavioral and Cognitive Neuroscience,1
+BC-403,Cell and Molecular Neuroscience,17
+BC-404,Behavioral and Cognitive Neuroscience,1
+BC-404,Cell and Molecular Neuroscience,18
+BC-405,Cell and Molecular Neuroscience,1
+BC-411,Cell and Molecular Neuroscience,2
+BC-463,Behavioral and Cognitive Neuroscience,1
+BC-463,Cell and Molecular Neuroscience,1
+BC-465,Anatomy and Physiology,3
+BC-465,Cell and Molecular Neuroscience,14
+BC-475,Anatomy and Physiology,2
+BC-484,Anatomy and Physiology,6
+BC-484,Behavioral and Cognitive Neuroscience,1
+BC-484,Cell and Molecular Neuroscience,14
+BC-484,Exercise Science,1
+BC-484,Other,4
+BC-496,Behavioral and Cognitive Neuroscience,1
+BC-496,Cell and Molecular Neuroscience,5
+BC-498,Anatomy and Physiology,3
+BC-566,Anatomy and Physiology,1
+BIOM-100,Anatomy and Physiology,5
+BIOM-100,Cell and Molecular Neuroscience,1
+BIOM-100,Exercise Science,10
+BIOM-100,Health Promotion,1
+BIOM-100,Microbiology and Infectious Disease,3
+BIOM-109,Anatomy and Physiology,2
+BIOM-109,Health Promotion,2
+BIOM-109,Microbiology and Infectious Disease,2
+BIOM-200,Anatomy and Physiology,4
+BIOM-200,Exercise Science,2
+BIOM-300,Anatomy and Physiology,4
+BIOM-300,Exercise Science,2
+BIOM-304,Anatomy and Physiology,1
+BIOM-350A,Behavioral and Cognitive Neuroscience,1
+BIOM-350A,Exercise Science,1
+BIOM-350B,Anatomy and Physiology,1
+BIOM-350C,Anatomy and Physiology,2
+BMS-200,Anatomy and Physiology,97
+BMS-200,Behavioral and Cognitive Neuroscience,30
+BMS-200,Cell and Molecular Neuroscience,11
+BMS-200,Environmental and Public Health,18
+BMS-200,Exercise Science,167
+BMS-200,Health Promotion,28
+BMS-200,Microbiology and Infectious Disease,12
+BMS-200,Other,6
+BMS-260,Anatomy and Physiology,616
+BMS-260,Environmental and Public Health,3
+BMS-260,Exercise Science,18
+BMS-260,Health Promotion,4
+BMS-260,Microbiology and Infectious Disease,6
+BMS-260,Other,6
+BMS-296,Anatomy and Physiology,67
+BMS-296,Exercise Science,1
+BMS-296,Microbiology and Infectious Disease,1
+BMS-300,Anatomy and Physiology,358
+BMS-300,Behavioral and Cognitive Neuroscience,82
+BMS-300,Cell and Molecular Neuroscience,42
+BMS-300,Environmental and Public Health,30
+BMS-300,Exercise Science,432
+BMS-300,Health Promotion,92
+BMS-300,Microbiology and Infectious Disease,89
+BMS-300,Neuroscience,1
+BMS-300,Other,20
+BMS-301,Anatomy and Physiology,475
+BMS-301,Behavioral and Cognitive Neuroscience,31
+BMS-301,Cell and Molecular Neuroscience,14
+BMS-301,Environmental and Public Health,6
+BMS-301,Exercise Science,499
+BMS-301,Health Promotion,63
+BMS-301,Microbiology and Infectious Disease,34
+BMS-301,Other,14
+BMS-302,Anatomy and Physiology,598
+BMS-302,Behavioral and Cognitive Neuroscience,37
+BMS-302,Cell and Molecular Neuroscience,6
+BMS-302,Environmental and Public Health,2
+BMS-302,Exercise Science,773
+BMS-302,Health Promotion,81
+BMS-302,Microbiology and Infectious Disease,23
+BMS-302,Neuroscience,1
+BMS-302,Other,19
+BMS-304,Anatomy and Physiology,39
+BMS-305,Anatomy and Physiology,78
+BMS-305,Behavioral and Cognitive Neuroscience,2
+BMS-305,Microbiology and Infectious Disease,14
+BMS-320,Anatomy and Physiology,1
+BMS-320,Cell and Molecular Neuroscience,1
+BMS-320,Exercise Science,5
+BMS-320,Health Promotion,1
+BMS-320,Microbiology and Infectious Disease,1
+BMS-325,Anatomy and Physiology,36
+BMS-325,Behavioral and Cognitive Neuroscience,36
+BMS-325,Cell and Molecular Neuroscience,22
+BMS-325,Exercise Science,11
+BMS-325,Other,2
+BMS-330,Anatomy and Physiology,16
+BMS-330,Exercise Science,2
+BMS-345,Anatomy and Physiology,66
+BMS-345,Behavioral and Cognitive Neuroscience,84
+BMS-345,Cell and Molecular Neuroscience,54
+BMS-345,Exercise Science,4
+BMS-345,Health Promotion,2
+BMS-345,Microbiology and Infectious Disease,2
+BMS-345,Other,5
+BMS-384,Anatomy and Physiology,69
+BMS-384,Behavioral and Cognitive Neuroscience,2
+BMS-384,Cell and Molecular Neuroscience,5
+BMS-384,Exercise Science,4
+BMS-384,Health Promotion,1
+BMS-384,Microbiology and Infectious Disease,2
+BMS-400,Anatomy and Physiology,8
+BMS-401,Anatomy and Physiology,20
+BMS-401,Behavioral and Cognitive Neuroscience,4
+BMS-401,Cell and Molecular Neuroscience,2
+BMS-405,Anatomy and Physiology,4
+BMS-405,Behavioral and Cognitive Neuroscience,1
+BMS-405,Cell and Molecular Neuroscience,1
+BMS-405,Exercise Science,1
+BMS-409,Anatomy and Physiology,23
+BMS-409,Behavioral and Cognitive Neuroscience,1
+BMS-409,Cell and Molecular Neuroscience,1
+BMS-420,Anatomy and Physiology,91
+BMS-420,Exercise Science,10
+BMS-420,Microbiology and Infectious Disease,3
+BMS-421,Anatomy and Physiology,128
+BMS-421,Microbiology and Infectious Disease,2
+BMS-425,Cell and Molecular Neuroscience,2
+BMS-430,Anatomy and Physiology,42
+BMS-430,Cell and Molecular Neuroscience,1
+BMS-430,Exercise Science,7
+BMS-450,Anatomy and Physiology,47
+BMS-460,Anatomy and Physiology,56
+BMS-461,Anatomy and Physiology,43
+BMS-487,Anatomy and Physiology,1
+BMS-495,Anatomy and Physiology,3
+BMS-496A,Anatomy and Physiology,24
+BMS-496A,Behavioral and Cognitive Neuroscience,1
+BMS-496A,Cell and Molecular Neuroscience,1
+BMS-496A,Exercise Science,1
+BMS-496A,Health Promotion,1
+BMS-496B,Anatomy and Physiology,10
+BMS-496B,Microbiology and Infectious Disease,1
+BMS-496C,Anatomy and Physiology,38
+BMS-496C,Exercise Science,1
+BMS-496C,Health Promotion,2
+BMS-496C,Microbiology and Infectious Disease,1
+BMS-496D,Anatomy and Physiology,2
+BMS-498,Anatomy and Physiology,6
+BMS-498,Behavioral and Cognitive Neuroscience,1
+BMS-498,Cell and Molecular Neuroscience,1
+BMS-500,Anatomy and Physiology,6
+BMS-501,Anatomy and Physiology,1
+BMS-521,Anatomy and Physiology,1
+BMS-531,Anatomy and Physiology,2
+BMS-531,Microbiology and Infectious Disease,1
+BMS-545,Anatomy and Physiology,2
+BMS-545,Behavioral and Cognitive Neuroscience,4
+BMS-545,Cell and Molecular Neuroscience,2
+BMS-575,Anatomy and Physiology,20
+BMS-575,Exercise Science,1
+BSPM-102,Anatomy and Physiology,7
+BSPM-102,Behavioral and Cognitive Neuroscience,1
+BSPM-102,Exercise Science,9
+BSPM-102,Health Promotion,5
+BSPM-102,Microbiology and Infectious Disease,1
+BSPM-102,Other,1
+BSPM-302,Environmental and Public Health,1
+BSPM-302,Exercise Science,1
+BSPM-302,Microbiology and Infectious Disease,2
+BSPM-303A,Exercise Science,1
+BSPM-361,Behavioral and Cognitive Neuroscience,2
+BSPM-361,Microbiology and Infectious Disease,2
+BSPM-365,Behavioral and Cognitive Neuroscience,2
+BUS-100,Anatomy and Physiology,1
+BUS-100,Exercise Science,8
+BUS-100,Health Promotion,2
+BUS-100,Other,3
+BUS-105,Anatomy and Physiology,1
+BUS-105,Exercise Science,7
+BUS-105,Health Promotion,1
+BUS-150,Anatomy and Physiology,2
+BUS-150,Behavioral and Cognitive Neuroscience,2
+BUS-150,Cell and Molecular Neuroscience,1
+BUS-150,Exercise Science,6
+BUS-150,Health Promotion,8
+BUS-150,Microbiology and Infectious Disease,3
+BUS-201,Anatomy and Physiology,1
+BUS-201,Exercise Science,3
+BUS-201,Health Promotion,2
+BUS-201,Other,2
+BUS-205,Behavioral and Cognitive Neuroscience,2
+BUS-205,Exercise Science,1
+BUS-205,Health Promotion,21
+BUS-210,Cell and Molecular Neuroscience,1
+BUS-210,Exercise Science,2
+BUS-220,Anatomy and Physiology,14
+BUS-220,Behavioral and Cognitive Neuroscience,2
+BUS-220,Environmental and Public Health,4
+BUS-220,Exercise Science,44
+BUS-220,Health Promotion,31
+BUS-220,Microbiology and Infectious Disease,4
+BUS-220,Other,1
+BUS-225,Health Promotion,2
+BUS-250,Anatomy and Physiology,1
+BUS-250,Exercise Science,4
+BUS-250,Health Promotion,1
+BUS-260,Anatomy and Physiology,1
+BUS-260,Exercise Science,1
+BUS-260,Health Promotion,1
+BUS-269,Health Promotion,1
+BUS-300,Anatomy and Physiology,1
+BUS-300,Health Promotion,2
+BUS-361,Health Promotion,1
+BUS-380A5,Anatomy and Physiology,1
+BUS-405A,Anatomy and Physiology,1
+BUS-405A,Exercise Science,1
+BUS-479,Anatomy and Physiology,1
+BZ-101,Anatomy and Physiology,2
+BZ-101,Behavioral and Cognitive Neuroscience,1
+BZ-101,Exercise Science,5
+BZ-101,Health Promotion,5
+BZ-101,Other,1
+BZ-104,Exercise Science,4
+BZ-104,Health Promotion,1
+BZ-110,Anatomy and Physiology,3
+BZ-110,Behavioral and Cognitive Neuroscience,1
+BZ-110,Environmental and Public Health,2
+BZ-110,Exercise Science,22
+BZ-110,Health Promotion,24
+BZ-110,Microbiology and Infectious Disease,4
+BZ-111,Anatomy and Physiology,3
+BZ-111,Environmental and Public Health,2
+BZ-111,Exercise Science,15
+BZ-111,Health Promotion,24
+BZ-111,Microbiology and Infectious Disease,1
+BZ-111,Other,1
+BZ-120,Environmental and Public Health,2
+BZ-120,Exercise Science,10
+BZ-120,Health Promotion,8
+BZ-120,Microbiology and Infectious Disease,1
+BZ-120,Other,1
+BZ-182A,Anatomy and Physiology,1
+BZ-182A,Health Promotion,2
+BZ-192,Anatomy and Physiology,3
+BZ-192,Exercise Science,6
+BZ-192,Microbiology and Infectious Disease,2
+BZ-212,Anatomy and Physiology,6
+BZ-212,Cell and Molecular Neuroscience,2
+BZ-212,Exercise Science,2
+BZ-212,Microbiology and Infectious Disease,6
+BZ-214,Anatomy and Physiology,4
+BZ-214,Cell and Molecular Neuroscience,2
+BZ-214,Microbiology and Infectious Disease,8
+BZ-220,Anatomy and Physiology,18
+BZ-220,Cell and Molecular Neuroscience,1
+BZ-220,Exercise Science,11
+BZ-220,Health Promotion,3
+BZ-220,Microbiology and Infectious Disease,5
+BZ-220,Other,2
+BZ-223,Anatomy and Physiology,1
+BZ-223,Exercise Science,1
+BZ-240,Other,1
+BZ-300,Anatomy and Physiology,2
+BZ-300,Exercise Science,1
+BZ-310,Anatomy and Physiology,6
+BZ-310,Environmental and Public Health,2
+BZ-310,Exercise Science,6
+BZ-310,Microbiology and Infectious Disease,2
+BZ-310,Other,4
+BZ-311,Other,2
+BZ-329,Anatomy and Physiology,3
+BZ-329,Microbiology and Infectious Disease,1
+BZ-333,Microbiology and Infectious Disease,2
+BZ-350,Anatomy and Physiology,24
+BZ-350,Behavioral and Cognitive Neuroscience,1
+BZ-350,Exercise Science,25
+BZ-350,Microbiology and Infectious Disease,13
+BZ-350,Other,3
+BZ-360,Behavioral and Cognitive Neuroscience,2
+BZ-360,Microbiology and Infectious Disease,10
+BZ-360,Other,2
+BZ-384,Anatomy and Physiology,2
+BZ-384,Behavioral and Cognitive Neuroscience,1
+BZ-384,Microbiology and Infectious Disease,1
+BZ-415,Anatomy and Physiology,1
+BZ-418,Microbiology and Infectious Disease,1
+BZ-420,Other,1
+BZ-435A,Anatomy and Physiology,2
+BZ-450,Anatomy and Physiology,2
+BZ-475,Microbiology and Infectious Disease,1
+BZ-480A4,Behavioral and Cognitive Neuroscience,1
+BZ-480A4,Microbiology and Infectious Disease,6
+BZ-498,Anatomy and Physiology,1
+BZ-498,Microbiology and Infectious Disease,1
+BZ-541,Anatomy and Physiology,1
+CBE-101,Exercise Science,2
+CBE-101,Health Promotion,2
+CBE-101,Microbiology and Infectious Disease,2
+CBE-101A,Anatomy and Physiology,3
+CBE-101A,Exercise Science,2
+CBE-101A,Health Promotion,1
+CBE-101A,Microbiology and Infectious Disease,2
+CBE-101B,Anatomy and Physiology,3
+CBE-101B,Exercise Science,2
+CBE-101B,Health Promotion,1
+CBE-101B,Microbiology and Infectious Disease,2
+CBE-160,Anatomy and Physiology,3
+CBE-160,Exercise Science,3
+CBE-160,Health Promotion,2
+CBE-160,Microbiology and Infectious Disease,3
+CBE-201,Exercise Science,1
+CBE-201,Microbiology and Infectious Disease,1
+CBE-205,Exercise Science,1
+CBE-205,Microbiology and Infectious Disease,1
+CBE-210,Exercise Science,1
+CBE-210,Microbiology and Infectious Disease,1
+CBE-393,Exercise Science,1
+CBE-393,Microbiology and Infectious Disease,1
+CHEM-103,Anatomy and Physiology,1
+CHEM-103,Behavioral and Cognitive Neuroscience,1
+CHEM-103,Exercise Science,3
+CHEM-103,Health Promotion,3
+CHEM-104,Behavioral and Cognitive Neuroscience,1
+CHEM-104,Exercise Science,1
+CHEM-104,Health Promotion,1
+CHEM-105,Anatomy and Physiology,7
+CHEM-105,Behavioral and Cognitive Neuroscience,2
+CHEM-105,Cell and Molecular Neuroscience,1
+CHEM-105,Exercise Science,10
+CHEM-105,Health Promotion,14
+CHEM-105,Microbiology and Infectious Disease,3
+CHEM-105,Other,3
+CHEM-107,Cell and Molecular Neuroscience,1
+CHEM-107,Environmental and Public Health,2
+CHEM-107,Exercise Science,54
+CHEM-107,Health Promotion,132
+CHEM-107,Other,7
+CHEM-108,Cell and Molecular Neuroscience,1
+CHEM-108,Environmental and Public Health,2
+CHEM-108,Exercise Science,49
+CHEM-108,Health Promotion,123
+CHEM-108,Other,6
+CHEM-111,Anatomy and Physiology,939
+CHEM-111,Behavioral and Cognitive Neuroscience,218
+CHEM-111,Cell and Molecular Neuroscience,105
+CHEM-111,Environmental and Public Health,103
+CHEM-111,Exercise Science,1021
+CHEM-111,Health Promotion,276
+CHEM-111,Microbiology and Infectious Disease,312
+CHEM-111,Neuroscience,25
+CHEM-111,Other,91
+CHEM-112,Anatomy and Physiology,434
+CHEM-112,Behavioral and Cognitive Neuroscience,98
+CHEM-112,Cell and Molecular Neuroscience,51
+CHEM-112,Environmental and Public Health,39
+CHEM-112,Exercise Science,421
+CHEM-112,Health Promotion,115
+CHEM-112,Microbiology and Infectious Disease,145
+CHEM-112,Neuroscience,11
+CHEM-112,Other,36
+CHEM-113,Anatomy and Physiology,378
+CHEM-113,Behavioral and Cognitive Neuroscience,90
+CHEM-113,Cell and Molecular Neuroscience,46
+CHEM-113,Environmental and Public Health,30
+CHEM-113,Exercise Science,434
+CHEM-113,Health Promotion,60
+CHEM-113,Microbiology and Infectious Disease,131
+CHEM-113,Neuroscience,7
+CHEM-113,Other,22
+CHEM-114,Anatomy and Physiology,353
+CHEM-114,Behavioral and Cognitive Neuroscience,87
+CHEM-114,Cell and Molecular Neuroscience,40
+CHEM-114,Environmental and Public Health,28
+CHEM-114,Exercise Science,401
+CHEM-114,Health Promotion,50
+CHEM-114,Microbiology and Infectious Disease,130
+CHEM-114,Neuroscience,6
+CHEM-114,Other,22
+CHEM-115,Anatomy and Physiology,13
+CHEM-115,Behavioral and Cognitive Neuroscience,1
+CHEM-115,Cell and Molecular Neuroscience,1
+CHEM-115,Environmental and Public Health,5
+CHEM-115,Exercise Science,13
+CHEM-115,Health Promotion,2
+CHEM-115,Microbiology and Infectious Disease,2
+CHEM-115,Other,1
+CHEM-120,Exercise Science,2
+CHEM-120,Microbiology and Infectious Disease,2
+CHEM-121,Exercise Science,1
+CHEM-121,Microbiology and Infectious Disease,1
+CHEM-192,Exercise Science,1
+CHEM-192,Microbiology and Infectious Disease,2
+CHEM-231,Anatomy and Physiology,1
+CHEM-231,Microbiology and Infectious Disease,2
+CHEM-232,Anatomy and Physiology,1
+CHEM-241,Anatomy and Physiology,2
+CHEM-241,Microbiology and Infectious Disease,2
+CHEM-242,Anatomy and Physiology,1
+CHEM-242,Microbiology and Infectious Disease,1
+CHEM-245,Anatomy and Physiology,65
+CHEM-245,Cell and Molecular Neuroscience,1
+CHEM-245,Environmental and Public Health,22
+CHEM-245,Exercise Science,197
+CHEM-245,Health Promotion,4
+CHEM-245,Microbiology and Infectious Disease,42
+CHEM-245,Other,3
+CHEM-246,Anatomy and Physiology,58
+CHEM-246,Cell and Molecular Neuroscience,1
+CHEM-246,Environmental and Public Health,16
+CHEM-246,Exercise Science,190
+CHEM-246,Health Promotion,3
+CHEM-246,Microbiology and Infectious Disease,37
+CHEM-246,Other,2
+CHEM-263,Anatomy and Physiology,5
+CHEM-263,Behavioral and Cognitive Neuroscience,1
+CHEM-263,Environmental and Public Health,2
+CHEM-263,Exercise Science,1
+CHEM-263,Health Promotion,2
+CHEM-263,Microbiology and Infectious Disease,1
+CHEM-264,Anatomy and Physiology,1
+CHEM-264,Environmental and Public Health,1
+CHEM-264,Health Promotion,1
+CHEM-311,Exercise Science,1
+CHEM-311,Microbiology and Infectious Disease,1
+CHEM-320,Anatomy and Physiology,5
+CHEM-320,Behavioral and Cognitive Neuroscience,10
+CHEM-320,Cell and Molecular Neuroscience,1
+CHEM-320,Exercise Science,4
+CHEM-320,Microbiology and Infectious Disease,4
+CHEM-333,Anatomy and Physiology,7
+CHEM-333,Behavioral and Cognitive Neuroscience,2
+CHEM-333,Microbiology and Infectious Disease,2
+CHEM-338,Anatomy and Physiology,2
+CHEM-338,Environmental and Public Health,2
+CHEM-341,Anatomy and Physiology,287
+CHEM-341,Behavioral and Cognitive Neuroscience,91
+CHEM-341,Cell and Molecular Neuroscience,45
+CHEM-341,Environmental and Public Health,7
+CHEM-341,Exercise Science,58
+CHEM-341,Health Promotion,2
+CHEM-341,Microbiology and Infectious Disease,104
+CHEM-341,Neuroscience,3
+CHEM-341,Other,15
+CHEM-343,Anatomy and Physiology,211
+CHEM-343,Behavioral and Cognitive Neuroscience,66
+CHEM-343,Cell and Molecular Neuroscience,37
+CHEM-343,Environmental and Public Health,6
+CHEM-343,Exercise Science,35
+CHEM-343,Health Promotion,1
+CHEM-343,Microbiology and Infectious Disease,72
+CHEM-343,Other,11
+CHEM-344,Anatomy and Physiology,170
+CHEM-344,Behavioral and Cognitive Neuroscience,56
+CHEM-344,Cell and Molecular Neuroscience,28
+CHEM-344,Environmental and Public Health,5
+CHEM-344,Exercise Science,21
+CHEM-344,Microbiology and Infectious Disease,60
+CHEM-344,Other,6
+CHEM-384,Anatomy and Physiology,15
+CHEM-384,Cell and Molecular Neuroscience,1
+CHEM-384,Exercise Science,4
+CHEM-434,Anatomy and Physiology,1
+CHEM-434,Behavioral and Cognitive Neuroscience,1
+CHEM-440,Anatomy and Physiology,1
+CHEM-440,Cell and Molecular Neuroscience,1
+CHEM-445,Anatomy and Physiology,1
+CHEM-445,Cell and Molecular Neuroscience,1
+CHEM-445,Microbiology and Infectious Disease,1
+CHEM-448,Anatomy and Physiology,2
+CHEM-448,Behavioral and Cognitive Neuroscience,1
+CHEM-448,Exercise Science,1
+CIS-200,Anatomy and Physiology,4
+CIS-200,Cell and Molecular Neuroscience,1
+CIS-200,Exercise Science,7
+CIS-200,Health Promotion,4
+CIS-200,Other,3
+CIS-240,Anatomy and Physiology,1
+CIS-310,Anatomy and Physiology,1
+CIS-320,Anatomy and Physiology,1
+CIS-340,Anatomy and Physiology,1
+CIS-370,Anatomy and Physiology,1
+CIS-411,Anatomy and Physiology,1
+CIS-575,Anatomy and Physiology,1
+CIVE-102,Behavioral and Cognitive Neuroscience,2
+CIVE-102,Health Promotion,2
+CIVE-103,Health Promotion,2
+CIVE-260,Environmental and Public Health,1
+CIVE-260,Exercise Science,2
+CIVE-261,Anatomy and Physiology,1
+CIVE-261,Exercise Science,2
+CIVE-360,Anatomy and Physiology,1
+CO-130,Anatomy and Physiology,5
+CO-130,Behavioral and Cognitive Neuroscience,1
+CO-130,Exercise Science,17
+CO-130,Health Promotion,11
+CO-130,Neuroscience,1
+CO-130,Other,2
+CO-150,Anatomy and Physiology,186
+CO-150,Behavioral and Cognitive Neuroscience,48
+CO-150,Cell and Molecular Neuroscience,25
+CO-150,Environmental and Public Health,22
+CO-150,Exercise Science,360
+CO-150,Health Promotion,185
+CO-150,Microbiology and Infectious Disease,51
+CO-150,Neuroscience,9
+CO-150,Other,23
+CO-300,Anatomy and Physiology,47
+CO-300,Behavioral and Cognitive Neuroscience,38
+CO-300,Cell and Molecular Neuroscience,13
+CO-300,Environmental and Public Health,13
+CO-300,Exercise Science,10
+CO-300,Health Promotion,12
+CO-300,Microbiology and Infectious Disease,18
+CO-300,Neuroscience,3
+CO-300,Other,5
+CO-301A,Anatomy and Physiology,3
+CO-301A,Microbiology and Infectious Disease,2
+CO-301B,Anatomy and Physiology,93
+CO-301B,Behavioral and Cognitive Neuroscience,32
+CO-301B,Cell and Molecular Neuroscience,23
+CO-301B,Environmental and Public Health,17
+CO-301B,Exercise Science,294
+CO-301B,Health Promotion,166
+CO-301B,Microbiology and Infectious Disease,34
+CO-301B,Neuroscience,2
+CO-301B,Other,12
+CO-302,Health Promotion,1
+CON-101,Anatomy and Physiology,1
+CON-101,Health Promotion,1
+CON-131,Anatomy and Physiology,1
+CON-151,Anatomy and Physiology,1
+CON-151,Microbiology and Infectious Disease,1
+CON-192,Anatomy and Physiology,1
+CON-251,Anatomy and Physiology,2
+CON-253,Anatomy and Physiology,2
+CON-265,Anatomy and Physiology,2
+CON-317,Anatomy and Physiology,1
+CON-353,Anatomy and Physiology,3
+CON-358,Anatomy and Physiology,1
+CON-366,Anatomy and Physiology,2
+CS-110,Anatomy and Physiology,6
+CS-110,Behavioral and Cognitive Neuroscience,18
+CS-110,Cell and Molecular Neuroscience,2
+CS-110,Environmental and Public Health,3
+CS-110,Exercise Science,18
+CS-110,Health Promotion,14
+CS-110,Microbiology and Infectious Disease,5
+CS-110,Other,8
+CS-150B,Anatomy and Physiology,29
+CS-150B,Behavioral and Cognitive Neuroscience,5
+CS-150B,Cell and Molecular Neuroscience,17
+CS-150B,Environmental and Public Health,3
+CS-150B,Exercise Science,27
+CS-150B,Health Promotion,13
+CS-150B,Microbiology and Infectious Disease,10
+CS-150B,Other,5
+CS-152,Anatomy and Physiology,2
+CS-152,Exercise Science,2
+CS-152,Health Promotion,2
+CS-152,Microbiology and Infectious Disease,6
+CS-162,Cell and Molecular Neuroscience,2
+CS-162,Exercise Science,2
+CS-162,Health Promotion,2
+CS-162,Microbiology and Infectious Disease,4
+CS-163,Anatomy and Physiology,1
+CS-163,Cell and Molecular Neuroscience,2
+CS-163,Health Promotion,2
+CS-164,Anatomy and Physiology,7
+CS-164,Behavioral and Cognitive Neuroscience,2
+CS-164,Cell and Molecular Neuroscience,4
+CS-164,Exercise Science,6
+CS-164,Microbiology and Infectious Disease,4
+CS-164,Other,1
+CS-165,Anatomy and Physiology,1
+CS-165,Cell and Molecular Neuroscience,4
+CS-165,Exercise Science,4
+CS-165,Health Promotion,2
+CS-192,Exercise Science,3
+CS-201,Anatomy and Physiology,2
+CS-201,Cell and Molecular Neuroscience,1
+CS-201,Exercise Science,1
+CS-214,Cell and Molecular Neuroscience,4
+CS-214,Health Promotion,2
+CS-220,Anatomy and Physiology,1
+CS-220,Cell and Molecular Neuroscience,7
+CS-220,Exercise Science,4
+CS-220,Microbiology and Infectious Disease,4
+CS-250,Cell and Molecular Neuroscience,1
+CS-312,Cell and Molecular Neuroscience,2
+CS-314,Cell and Molecular Neuroscience,1
+CS-320,Cell and Molecular Neuroscience,1
+CS-345,Cell and Molecular Neuroscience,1
+CS-345,Microbiology and Infectious Disease,1
+CS-356,Cell and Molecular Neuroscience,2
+CS-425,Microbiology and Infectious Disease,1
+CS-435,Cell and Molecular Neuroscience,2
+CS-480A8,Cell and Molecular Neuroscience,1
+CT-301,Health Promotion,2
+D-110,Anatomy and Physiology,8
+D-110,Behavioral and Cognitive Neuroscience,3
+D-110,Exercise Science,14
+D-110,Health Promotion,5
+D-110,Microbiology and Infectious Disease,1
+D-110,Neuroscience,1
+D-110,Other,3
+D-120A,Health Promotion,1
+D-120B,Exercise Science,1
+D-220A,Behavioral and Cognitive Neuroscience,1
+DM-182A,Environmental and Public Health,1
+DM-192A,Exercise Science,1
+DM-192B,Behavioral and Cognitive Neuroscience,1
+DM-192B,Exercise Science,1
+DM-272,Exercise Science,1
+DSCI-235,Cell and Molecular Neuroscience,2
+DSCI-320,Cell and Molecular Neuroscience,3
+DSCI-335,Behavioral and Cognitive Neuroscience,1
+DSCI-335,Cell and Molecular Neuroscience,1
+DSCI-336,Cell and Molecular Neuroscience,1
+DSCI-369,Anatomy and Physiology,2
+DSCI-369,Cell and Molecular Neuroscience,1
+DSCI-369,Other,1
+DSCI-445,Cell and Molecular Neuroscience,1
+DSCI-478,Cell and Molecular Neuroscience,1
+E-140,Anatomy and Physiology,4
+E-140,Behavioral and Cognitive Neuroscience,3
+E-140,Cell and Molecular Neuroscience,1
+E-140,Environmental and Public Health,1
+E-140,Exercise Science,4
+E-140,Health Promotion,2
+E-140,Microbiology and Infectious Disease,1
+E-142,Anatomy and Physiology,3
+E-142,Behavioral and Cognitive Neuroscience,2
+E-142,Cell and Molecular Neuroscience,1
+E-142,Exercise Science,3
+E-142,Health Promotion,1
+E-142,Microbiology and Infectious Disease,1
+E-150,Health Promotion,1
+E-202,Anatomy and Physiology,1
+E-204,Microbiology and Infectious Disease,1
+E-206,Cell and Molecular Neuroscience,1
+E-210,Anatomy and Physiology,1
+E-210,Behavioral and Cognitive Neuroscience,3
+E-210,Cell and Molecular Neuroscience,1
+E-210,Exercise Science,2
+E-210,Health Promotion,2
+E-210,Microbiology and Infectious Disease,4
+E-210,Other,1
+E-232,Anatomy and Physiology,4
+E-232,Behavioral and Cognitive Neuroscience,2
+E-232,Exercise Science,8
+E-232,Health Promotion,3
+E-232,Microbiology and Infectious Disease,1
+E-232,Neuroscience,1
+E-236,Anatomy and Physiology,7
+E-236,Behavioral and Cognitive Neuroscience,1
+E-236,Cell and Molecular Neuroscience,1
+E-236,Exercise Science,10
+E-236,Health Promotion,5
+E-236,Microbiology and Infectious Disease,6
+E-236,Other,1
+E-237,Anatomy and Physiology,1
+E-237,Environmental and Public Health,1
+E-237,Exercise Science,1
+E-238,Anatomy and Physiology,8
+E-238,Exercise Science,4
+E-238,Microbiology and Infectious Disease,1
+E-240,Health Promotion,2
+E-242,Anatomy and Physiology,1
+E-242,Exercise Science,1
+E-242,Microbiology and Infectious Disease,1
+E-245,Anatomy and Physiology,3
+E-245,Behavioral and Cognitive Neuroscience,1
+E-245,Cell and Molecular Neuroscience,2
+E-245,Exercise Science,2
+E-245,Health Promotion,2
+E-245,Microbiology and Infectious Disease,1
+E-270,Anatomy and Physiology,1
+E-270,Behavioral and Cognitive Neuroscience,1
+E-270,Exercise Science,2
+E-270,Health Promotion,3
+E-276,Anatomy and Physiology,5
+E-276,Exercise Science,1
+E-276,Microbiology and Infectious Disease,1
+E-277,Health Promotion,1
+E-277,Microbiology and Infectious Disease,1
+E-311A,Exercise Science,2
+E-311A,Health Promotion,2
+E-311A,Microbiology and Infectious Disease,2
+E-311B,Exercise Science,1
+E-311B,Health Promotion,2
+E-311B,Microbiology and Infectious Disease,2
+E-328,Behavioral and Cognitive Neuroscience,1
+E-333,Exercise Science,1
+E-352,Cell and Molecular Neuroscience,1
+E-412A,Exercise Science,2
+EAP-102,Anatomy and Physiology,1
+ECE-102,Cell and Molecular Neuroscience,2
+ECE-102,Exercise Science,2
+ECE-204,Anatomy and Physiology,1
+ECE-204,Exercise Science,1
+ECON-101,Anatomy and Physiology,1
+ECON-101,Cell and Molecular Neuroscience,1
+ECON-101,Environmental and Public Health,1
+ECON-101,Exercise Science,5
+ECON-101,Health Promotion,3
+ECON-202,Anatomy and Physiology,25
+ECON-202,Behavioral and Cognitive Neuroscience,2
+ECON-202,Cell and Molecular Neuroscience,6
+ECON-202,Environmental and Public Health,4
+ECON-202,Exercise Science,67
+ECON-202,Health Promotion,100
+ECON-202,Microbiology and Infectious Disease,5
+ECON-202,Other,16
+ECON-204,Anatomy and Physiology,4
+ECON-204,Exercise Science,5
+ECON-204,Health Promotion,12
+ECON-204,Other,4
+ECON-211,Anatomy and Physiology,19
+ECON-211,Behavioral and Cognitive Neuroscience,5
+ECON-211,Cell and Molecular Neuroscience,3
+ECON-211,Environmental and Public Health,2
+ECON-211,Exercise Science,19
+ECON-211,Health Promotion,19
+ECON-211,Microbiology and Infectious Disease,3
+ECON-211,Neuroscience,1
+ECON-211,Other,3
+ECON-212,Anatomy and Physiology,3
+ECON-212,Behavioral and Cognitive Neuroscience,5
+ECON-212,Cell and Molecular Neuroscience,1
+ECON-212,Environmental and Public Health,2
+ECON-212,Exercise Science,6
+ECON-212,Health Promotion,2
+ECON-235,Exercise Science,1
+ECON-240,Behavioral and Cognitive Neuroscience,1
+ECON-240,Environmental and Public Health,1
+ECON-240,Exercise Science,1
+ECON-240,Health Promotion,2
+EDUC-275,Anatomy and Physiology,1
+EDUC-275,Exercise Science,2
+EDUC-275,Health Promotion,3
+EDUC-275,Microbiology and Infectious Disease,2
+ENGR-101,Cell and Molecular Neuroscience,1
+ENGR-101,Microbiology and Infectious Disease,1
+ENGR-120,Exercise Science,1
+ENGR-180A2,Anatomy and Physiology,3
+ENGR-180A2,Behavioral and Cognitive Neuroscience,1
+ENGR-180A2,Cell and Molecular Neuroscience,2
+ENGR-180A2,Exercise Science,4
+ENGR-180A2,Health Promotion,1
+ENGR-180A2,Microbiology and Infectious Disease,1
+ENGR-533,Anatomy and Physiology,1
+ERHS-210,Environmental and Public Health,1
+ERHS-220,Anatomy and Physiology,25
+ERHS-220,Environmental and Public Health,59
+ERHS-220,Exercise Science,1
+ERHS-220,Health Promotion,1
+ERHS-220,Microbiology and Infectious Disease,12
+ERHS-220,Other,4
+ERHS-230,Environmental and Public Health,21
+ERHS-230,Microbiology and Infectious Disease,1
+ERHS-230,Other,2
+ERHS-320,Environmental and Public Health,23
+ERHS-320,Microbiology and Infectious Disease,6
+ERHS-320,Other,2
+ERHS-332,Anatomy and Physiology,1
+ERHS-332,Environmental and Public Health,9
+ERHS-332,Microbiology and Infectious Disease,5
+ERHS-332,Other,1
+ERHS-340,Anatomy and Physiology,12
+ERHS-340,Environmental and Public Health,2
+ERHS-340,Exercise Science,1
+ERHS-340,Microbiology and Infectious Disease,3
+ERHS-350,Environmental and Public Health,14
+ERHS-350,Other,2
+ERHS-380A1,Environmental and Public Health,1
+ERHS-410,Environmental and Public Health,3
+ERHS-410,Other,2
+ERHS-430,Anatomy and Physiology,4
+ERHS-430,Environmental and Public Health,28
+ERHS-430,Microbiology and Infectious Disease,10
+ERHS-430,Other,4
+ERHS-446,Environmental and Public Health,16
+ERHS-446,Other,2
+ERHS-448,Environmental and Public Health,12
+ERHS-450,Environmental and Public Health,6
+ERHS-450,Microbiology and Infectious Disease,2
+ERHS-450,Other,2
+ERHS-479,Environmental and Public Health,24
+ERHS-479,Other,2
+ERHS-482A,Anatomy and Physiology,5
+ERHS-482A,Environmental and Public Health,1
+ERHS-484,Environmental and Public Health,1
+ERHS-487,Environmental and Public Health,7
+ERHS-487,Other,2
+ERHS-498,Environmental and Public Health,1
+ERHS-498,Other,1
+ERHS-501,Health Promotion,1
+ERHS-566,Other,1
+ESS-120,Environmental and Public Health,1
+ESS-120,Exercise Science,2
+ESS-120,Health Promotion,2
+ESS-120,Microbiology and Infectious Disease,1
+ESS-129,Environmental and Public Health,1
+ESS-129,Exercise Science,3
+ESS-129,Health Promotion,2
+ESS-129,Microbiology and Infectious Disease,1
+ESS-130,Environmental and Public Health,1
+ESS-130,Exercise Science,2
+ESS-130,Health Promotion,1
+ESS-130,Microbiology and Infectious Disease,1
+ESS-210,Exercise Science,1
+ETST-100,Anatomy and Physiology,17
+ETST-100,Behavioral and Cognitive Neuroscience,8
+ETST-100,Cell and Molecular Neuroscience,2
+ETST-100,Environmental and Public Health,2
+ETST-100,Exercise Science,31
+ETST-100,Health Promotion,12
+ETST-100,Microbiology and Infectious Disease,6
+ETST-100,Other,1
+ETST-110,Anatomy and Physiology,1
+ETST-110,Behavioral and Cognitive Neuroscience,1
+ETST-110,Exercise Science,1
+ETST-110,Microbiology and Infectious Disease,1
+ETST-120,Exercise Science,2
+ETST-120,Health Promotion,1
+ETST-201,Microbiology and Infectious Disease,1
+ETST-205,Anatomy and Physiology,3
+ETST-205,Behavioral and Cognitive Neuroscience,2
+ETST-205,Exercise Science,6
+ETST-205,Health Promotion,7
+ETST-205,Microbiology and Infectious Disease,3
+ETST-205,Neuroscience,1
+ETST-240,Anatomy and Physiology,3
+ETST-240,Exercise Science,2
+ETST-240,Microbiology and Infectious Disease,2
+ETST-240,Other,1
+ETST-242,Health Promotion,1
+ETST-250,Anatomy and Physiology,2
+ETST-250,Behavioral and Cognitive Neuroscience,3
+ETST-250,Cell and Molecular Neuroscience,1
+ETST-250,Environmental and Public Health,1
+ETST-250,Exercise Science,2
+ETST-250,Health Promotion,2
+ETST-250,Microbiology and Infectious Disease,1
+ETST-250,Other,1
+ETST-252,Anatomy and Physiology,2
+ETST-252,Behavioral and Cognitive Neuroscience,2
+ETST-252,Environmental and Public Health,1
+ETST-252,Exercise Science,1
+ETST-252,Health Promotion,3
+ETST-252,Microbiology and Infectious Disease,1
+ETST-253,Anatomy and Physiology,1
+ETST-253,Behavioral and Cognitive Neuroscience,1
+ETST-253,Cell and Molecular Neuroscience,2
+ETST-253,Environmental and Public Health,1
+ETST-253,Exercise Science,2
+ETST-255,Exercise Science,2
+ETST-255,Health Promotion,1
+ETST-257,Exercise Science,1
+ETST-260,Environmental and Public Health,1
+ETST-260,Microbiology and Infectious Disease,1
+ETST-265,Exercise Science,2
+ETST-270,Exercise Science,1
+ETST-277,Exercise Science,1
+ETST-277,Health Promotion,2
+ETST-305,Anatomy and Physiology,1
+ETST-305,Microbiology and Infectious Disease,1
+ETST-354,Anatomy and Physiology,1
+ETST-420,Exercise Science,2
+ETST-430,Microbiology and Infectious Disease,1
+ETST-444,Anatomy and Physiology,1
+F-101,Exercise Science,2
+F-209,Exercise Science,1
+F-313,Exercise Science,2
+FACS-320,Environmental and Public Health,1
+FACS-320,Exercise Science,5
+FACS-320,Health Promotion,5
+FACS-320,Microbiology and Infectious Disease,1
+FACS-320,Other,1
+FIN-200,Anatomy and Physiology,6
+FIN-200,Environmental and Public Health,3
+FIN-200,Exercise Science,11
+FIN-200,Health Promotion,20
+FIN-200,Microbiology and Infectious Disease,5
+FIN-200,Neuroscience,1
+FIN-300,Anatomy and Physiology,1
+FIN-300,Health Promotion,1
+FIN-305,Anatomy and Physiology,2
+FIN-305,Cell and Molecular Neuroscience,1
+FIN-305,Environmental and Public Health,1
+FIN-305,Exercise Science,7
+FIN-305,Health Promotion,5
+FIN-310,Health Promotion,1
+FSHN-115,Anatomy and Physiology,19
+FSHN-115,Exercise Science,17
+FSHN-115,Health Promotion,15
+FSHN-115,Other,2
+FSHN-125,Anatomy and Physiology,7
+FSHN-125,Behavioral and Cognitive Neuroscience,1
+FSHN-125,Environmental and Public Health,1
+FSHN-125,Exercise Science,11
+FSHN-125,Health Promotion,6
+FSHN-125,Microbiology and Infectious Disease,1
+FSHN-125,Other,2
+FSHN-150,Anatomy and Physiology,33
+FSHN-150,Behavioral and Cognitive Neuroscience,7
+FSHN-150,Environmental and Public Health,3
+FSHN-150,Exercise Science,617
+FSHN-150,Health Promotion,259
+FSHN-150,Microbiology and Infectious Disease,3
+FSHN-150,Other,26
+FSHN-180A2,Anatomy and Physiology,10
+FSHN-180A2,Health Promotion,2
+FSHN-192,Exercise Science,2
+FSHN-192,Health Promotion,2
+FSHN-220,Anatomy and Physiology,1
+FSHN-220,Exercise Science,26
+FSHN-220,Health Promotion,22
+FSHN-220,Other,2
+FSHN-292,Exercise Science,1
+FSHN-292,Health Promotion,1
+FSHN-300,Environmental and Public Health,1
+FSHN-300,Exercise Science,3
+FSHN-301,Exercise Science,1
+FSHN-340,Anatomy and Physiology,1
+FSHN-340,Exercise Science,12
+FSHN-340,Health Promotion,6
+FSHN-342A,Exercise Science,1
+FSHN-342A,Health Promotion,2
+FSHN-350,Anatomy and Physiology,52
+FSHN-350,Behavioral and Cognitive Neuroscience,1
+FSHN-350,Environmental and Public Health,2
+FSHN-350,Exercise Science,48
+FSHN-350,Health Promotion,15
+FSHN-350,Other,3
+FSHN-360,Health Promotion,1
+FSHN-382A,Exercise Science,2
+FSHN-428,Behavioral and Cognitive Neuroscience,1
+FSHN-428,Exercise Science,3
+FSHN-428,Health Promotion,1
+FSHN-435,Exercise Science,2
+FSHN-444,Anatomy and Physiology,3
+FSHN-444,Exercise Science,19
+FSHN-444,Health Promotion,15
+FSHN-445,Exercise Science,1
+FSHN-449,Behavioral and Cognitive Neuroscience,1
+FSHN-449,Exercise Science,3
+FSHN-449,Health Promotion,1
+FSHN-451,Anatomy and Physiology,1
+FSHN-451,Exercise Science,2
+FSHN-451,Health Promotion,1
+FSHN-453,Exercise Science,2
+FSHN-453,Health Promotion,1
+FSHN-455,Anatomy and Physiology,2
+FSHN-455,Exercise Science,2
+FSHN-459,Anatomy and Physiology,2
+FSHN-459,Behavioral and Cognitive Neuroscience,1
+FSHN-459,Exercise Science,15
+FSHN-459,Health Promotion,3
+FSHN-461,Exercise Science,1
+FSHN-470,Behavioral and Cognitive Neuroscience,1
+FSHN-480A1,Exercise Science,1
+FSHN-486B,Exercise Science,1
+FSHN-525,Health Promotion,1
+FTEC-110,Cell and Molecular Neuroscience,2
+FTEC-110,Health Promotion,1
+FTEC-115,Anatomy and Physiology,2
+FTEC-115,Environmental and Public Health,1
+FTEC-115,Exercise Science,4
+FTEC-115,Health Promotion,1
+FTEC-115,Microbiology and Infectious Disease,2
+FTEC-155,Exercise Science,1
+FTEC-205,Exercise Science,1
+FTEC-210,Anatomy and Physiology,2
+FTEC-210,Health Promotion,2
+FTEC-292,Health Promotion,1
+FTEC-360,Microbiology and Infectious Disease,2
+FTEC-400,Anatomy and Physiology,1
+FTEC-400,Environmental and Public Health,19
+FTEC-400,Other,2
+FTEC-574,Microbiology and Infectious Disease,2
+FTEC-574,Other,1
+FW-104,Behavioral and Cognitive Neuroscience,1
+FW-104,Environmental and Public Health,1
+FW-104,Exercise Science,5
+FW-104,Health Promotion,4
+FW-104,Microbiology and Infectious Disease,1
+FW-179,Anatomy and Physiology,1
+FW-179,Environmental and Public Health,1
+FW-179,Exercise Science,2
+FW-179,Health Promotion,2
+FW-380A1,Exercise Science,2
+GEOL-110,Exercise Science,3
+GEOL-110,Health Promotion,1
+GEOL-120,Anatomy and Physiology,2
+GEOL-120,Exercise Science,7
+GEOL-120,Health Promotion,4
+GEOL-120,Microbiology and Infectious Disease,1
+GEOL-120,Other,3
+GEOL-121,Anatomy and Physiology,3
+GEOL-121,Exercise Science,6
+GEOL-121,Health Promotion,4
+GEOL-121,Other,4
+GEOL-122,Exercise Science,3
+GEOL-122,Health Promotion,4
+GEOL-124,Anatomy and Physiology,1
+GEOL-124,Other,1
+GEOL-150,Environmental and Public Health,2
+GEOL-150,Exercise Science,2
+GEOL-154,Environmental and Public Health,2
+GEOL-154,Exercise Science,2
+GEOL-192,Exercise Science,1
+GEOL-250,Environmental and Public Health,2
+GES-101,Environmental and Public Health,1
+GES-101,Exercise Science,2
+GES-101,Health Promotion,2
+GES-101,Microbiology and Infectious Disease,1
+GES-120,Environmental and Public Health,1
+GES-141,Anatomy and Physiology,1
+GES-141,Exercise Science,1
+GES-141,Health Promotion,2
+GES-280A2,Microbiology and Infectious Disease,1
+GES-465,Environmental and Public Health,1
+GR-100,Environmental and Public Health,1
+GR-100,Exercise Science,2
+GR-100,Health Promotion,5
+GR-100,Microbiology and Infectious Disease,2
+GR-102,Anatomy and Physiology,2
+GR-102,Exercise Science,3
+GR-102,Health Promotion,3
+GR-213,Anatomy and Physiology,2
+GR-217,Microbiology and Infectious Disease,1
+GR-348,Anatomy and Physiology,1
+GRAD-544,Anatomy and Physiology,1
+GRAD-544,Microbiology and Infectious Disease,5
+GRAD-592,Environmental and Public Health,1
+HDFS-101,Anatomy and Physiology,29
+HDFS-101,Behavioral and Cognitive Neuroscience,8
+HDFS-101,Cell and Molecular Neuroscience,1
+HDFS-101,Environmental and Public Health,1
+HDFS-101,Exercise Science,56
+HDFS-101,Health Promotion,74
+HDFS-101,Microbiology and Infectious Disease,5
+HDFS-101,Other,10
+HDFS-201,Anatomy and Physiology,1
+HDFS-201,Behavioral and Cognitive Neuroscience,1
+HDFS-201,Environmental and Public Health,1
+HDFS-201,Health Promotion,2
+HDFS-217,Anatomy and Physiology,2
+HDFS-217,Exercise Science,1
+HDFS-217,Health Promotion,3
+HDFS-250,Anatomy and Physiology,2
+HDFS-250,Health Promotion,1
+HDFS-275,Health Promotion,1
+HDFS-277,Anatomy and Physiology,4
+HDFS-277,Behavioral and Cognitive Neuroscience,1
+HDFS-277,Exercise Science,1
+HDFS-277,Health Promotion,1
+HDFS-277,Microbiology and Infectious Disease,1
+HDFS-277,Other,1
+HDFS-310,Anatomy and Physiology,4
+HDFS-310,Exercise Science,2
+HDFS-310,Health Promotion,2
+HDFS-310,Other,2
+HDFS-311,Anatomy and Physiology,1
+HDFS-311,Exercise Science,2
+HDFS-311,Health Promotion,3
+HDFS-311,Other,1
+HDFS-312,Anatomy and Physiology,1
+HDFS-312,Health Promotion,1
+HDFS-315,Anatomy and Physiology,2
+HDFS-315,Exercise Science,4
+HDFS-315,Microbiology and Infectious Disease,1
+HDFS-332,Exercise Science,3
+HDFS-332,Health Promotion,3
+HDFS-334,Health Promotion,4
+HDFS-334,Other,1
+HDFS-372,Anatomy and Physiology,1
+HDFS-372,Behavioral and Cognitive Neuroscience,1
+HDFS-403,Anatomy and Physiology,1
+HDFS-470A,Anatomy and Physiology,4
+HDFS-470A,Behavioral and Cognitive Neuroscience,2
+HDFS-470A,Cell and Molecular Neuroscience,1
+HDFS-470A,Health Promotion,2
+HDFS-470A,Microbiology and Infectious Disease,2
+HDFS-484,Anatomy and Physiology,1
+HDFS-497B,Other,1
+HDFS-497C,Anatomy and Physiology,3
+HDFS-497C,Exercise Science,2
+HDFS-497C,Health Promotion,1
+HDFS-497C,Microbiology and Infectious Disease,2
+HDFS-497F,Anatomy and Physiology,1
+HDFS-498A,Anatomy and Physiology,5
+HES-127,Exercise Science,23
+HES-127,Health Promotion,7
+HES-127,Other,2
+HES-145,Anatomy and Physiology,65
+HES-145,Behavioral and Cognitive Neuroscience,21
+HES-145,Environmental and Public Health,10
+HES-145,Exercise Science,743
+HES-145,Health Promotion,311
+HES-145,Microbiology and Infectious Disease,9
+HES-145,Neuroscience,5
+HES-145,Other,42
+HES-180A1,Exercise Science,8
+HES-180A1,Health Promotion,5
+HES-202,Anatomy and Physiology,16
+HES-202,Behavioral and Cognitive Neuroscience,6
+HES-202,Cell and Molecular Neuroscience,1
+HES-202,Environmental and Public Health,2
+HES-202,Exercise Science,571
+HES-202,Health Promotion,278
+HES-202,Microbiology and Infectious Disease,3
+HES-202,Other,24
+HES-207,Anatomy and Physiology,22
+HES-207,Behavioral and Cognitive Neuroscience,2
+HES-207,Exercise Science,1178
+HES-207,Health Promotion,672
+HES-207,Other,48
+HES-232,Exercise Science,7
+HES-232,Health Promotion,171
+HES-232,Other,3
+HES-300,Exercise Science,29
+HES-300,Health Promotion,160
+HES-300,Other,3
+HES-303,Anatomy and Physiology,2
+HES-303,Behavioral and Cognitive Neuroscience,1
+HES-303,Exercise Science,11
+HES-303,Health Promotion,163
+HES-303,Other,3
+HES-307,Anatomy and Physiology,1
+HES-307,Exercise Science,130
+HES-307,Other,1
+HES-309,Exercise Science,14
+HES-309,Health Promotion,20
+HES-319,Anatomy and Physiology,1
+HES-319,Exercise Science,338
+HES-340,Anatomy and Physiology,8
+HES-340,Exercise Science,558
+HES-340,Health Promotion,355
+HES-340,Other,6
+HES-345,Anatomy and Physiology,5
+HES-345,Environmental and Public Health,2
+HES-345,Exercise Science,360
+HES-345,Health Promotion,210
+HES-345,Other,6
+HES-354,Anatomy and Physiology,2
+HES-354,Exercise Science,58
+HES-354,Health Promotion,215
+HES-354,Other,5
+HES-355,Health Promotion,1
+HES-360,Exercise Science,15
+HES-360,Health Promotion,17
+HES-360,Other,1
+HES-379,Anatomy and Physiology,1
+HES-379,Behavioral and Cognitive Neuroscience,1
+HES-379,Exercise Science,46
+HES-379,Health Promotion,58
+HES-386,Health Promotion,265
+HES-386,Other,4
+HES-403,Anatomy and Physiology,9
+HES-403,Behavioral and Cognitive Neuroscience,1
+HES-403,Exercise Science,204
+HES-403,Health Promotion,129
+HES-403,Other,3
+HES-404,Anatomy and Physiology,1
+HES-404,Behavioral and Cognitive Neuroscience,1
+HES-404,Exercise Science,191
+HES-404,Health Promotion,125
+HES-404,Other,3
+HES-419,Exercise Science,15
+HES-419,Health Promotion,40
+HES-420,Exercise Science,22
+HES-420,Health Promotion,72
+HES-420,Other,3
+HES-432,Exercise Science,13
+HES-432,Health Promotion,83
+HES-432,Other,2
+HES-434,Anatomy and Physiology,1
+HES-434,Exercise Science,24
+HES-434,Health Promotion,106
+HES-434,Other,2
+HES-440,Exercise Science,5
+HES-440,Health Promotion,3
+HES-455,Health Promotion,77
+HES-455,Other,2
+HES-478A,Exercise Science,14
+HES-478B,Exercise Science,1
+HES-478C,Exercise Science,15
+HES-478D,Exercise Science,5
+HES-480A2,Health Promotion,13
+HES-480A3,Exercise Science,2
+HES-480A3,Health Promotion,6
+HES-480A4,Exercise Science,6
+HES-480A4,Health Promotion,14
+HES-484,Anatomy and Physiology,1
+HES-484,Exercise Science,13
+HES-484,Health Promotion,1
+HES-486,Health Promotion,193
+HES-486,Other,4
+HES-487,Health Promotion,7
+HES-487,Other,2
+HES-495A,Anatomy and Physiology,2
+HES-495A,Exercise Science,7
+HES-495A,Health Promotion,2
+HES-495C,Health Promotion,1
+HIST-100,Anatomy and Physiology,29
+HIST-100,Behavioral and Cognitive Neuroscience,4
+HIST-100,Environmental and Public Health,3
+HIST-100,Exercise Science,47
+HIST-100,Health Promotion,36
+HIST-100,Microbiology and Infectious Disease,4
+HIST-100,Other,2
+HIST-101,Anatomy and Physiology,6
+HIST-101,Behavioral and Cognitive Neuroscience,6
+HIST-101,Cell and Molecular Neuroscience,1
+HIST-101,Environmental and Public Health,4
+HIST-101,Exercise Science,25
+HIST-101,Health Promotion,20
+HIST-101,Microbiology and Infectious Disease,6
+HIST-101,Other,4
+HIST-115,Anatomy and Physiology,1
+HIST-115,Exercise Science,1
+HIST-115,Health Promotion,2
+HIST-115,Neuroscience,1
+HIST-115,Other,1
+HIST-116,Anatomy and Physiology,2
+HIST-116,Environmental and Public Health,1
+HIST-116,Exercise Science,1
+HIST-120,Anatomy and Physiology,7
+HIST-120,Exercise Science,7
+HIST-120,Health Promotion,1
+HIST-120,Microbiology and Infectious Disease,3
+HIST-120,Other,1
+HIST-121,Anatomy and Physiology,1
+HIST-121,Behavioral and Cognitive Neuroscience,1
+HIST-121,Exercise Science,7
+HIST-121,Neuroscience,1
+HIST-150,Anatomy and Physiology,21
+HIST-150,Behavioral and Cognitive Neuroscience,2
+HIST-150,Cell and Molecular Neuroscience,2
+HIST-150,Environmental and Public Health,2
+HIST-150,Exercise Science,37
+HIST-150,Health Promotion,26
+HIST-150,Microbiology and Infectious Disease,2
+HIST-150,Other,6
+HIST-151,Anatomy and Physiology,52
+HIST-151,Behavioral and Cognitive Neuroscience,13
+HIST-151,Cell and Molecular Neuroscience,2
+HIST-151,Environmental and Public Health,3
+HIST-151,Exercise Science,111
+HIST-151,Health Promotion,69
+HIST-151,Microbiology and Infectious Disease,16
+HIST-151,Neuroscience,2
+HIST-151,Other,7
+HIST-170,Anatomy and Physiology,5
+HIST-170,Behavioral and Cognitive Neuroscience,2
+HIST-170,Environmental and Public Health,2
+HIST-170,Exercise Science,8
+HIST-170,Health Promotion,2
+HIST-170,Microbiology and Infectious Disease,1
+HIST-170,Other,2
+HIST-171,Anatomy and Physiology,15
+HIST-171,Behavioral and Cognitive Neuroscience,6
+HIST-171,Cell and Molecular Neuroscience,3
+HIST-171,Environmental and Public Health,4
+HIST-171,Exercise Science,21
+HIST-171,Health Promotion,14
+HIST-171,Microbiology and Infectious Disease,6
+HIST-171,Neuroscience,1
+HIST-171,Other,3
+HIST-201,Exercise Science,1
+HIST-201,Health Promotion,2
+HIST-201,Microbiology and Infectious Disease,1
+HIST-250,Exercise Science,1
+HIST-250,Health Promotion,1
+HIST-255,Exercise Science,1
+HIST-301,Anatomy and Physiology,1
+HIST-309,Anatomy and Physiology,1
+HIST-311,Exercise Science,1
+HIST-317,Behavioral and Cognitive Neuroscience,1
+HIST-317,Environmental and Public Health,1
+HIST-318,Anatomy and Physiology,1
+HIST-338,Anatomy and Physiology,1
+HIST-345,Exercise Science,1
+HIST-349,Health Promotion,1
+HIST-351,Anatomy and Physiology,1
+HIST-355,Exercise Science,2
+HIST-359,Behavioral and Cognitive Neuroscience,1
+HIST-366,Anatomy and Physiology,1
+HIST-370,Anatomy and Physiology,1
+HIST-431,Exercise Science,1
+HONR-110,Anatomy and Physiology,46
+HONR-110,Behavioral and Cognitive Neuroscience,6
+HONR-110,Cell and Molecular Neuroscience,5
+HONR-110,Environmental and Public Health,4
+HONR-110,Exercise Science,9
+HONR-110,Health Promotion,5
+HONR-110,Microbiology and Infectious Disease,12
+HONR-110,Neuroscience,1
+HONR-110,Other,1
+HONR-192,Anatomy and Physiology,201
+HONR-192,Behavioral and Cognitive Neuroscience,41
+HONR-192,Cell and Molecular Neuroscience,22
+HONR-192,Environmental and Public Health,8
+HONR-192,Exercise Science,66
+HONR-192,Health Promotion,10
+HONR-192,Microbiology and Infectious Disease,70
+HONR-192,Neuroscience,5
+HONR-192,Other,11
+HONR-193,Anatomy and Physiology,77
+HONR-193,Behavioral and Cognitive Neuroscience,18
+HONR-193,Cell and Molecular Neuroscience,8
+HONR-193,Environmental and Public Health,4
+HONR-193,Exercise Science,33
+HONR-193,Health Promotion,7
+HONR-193,Microbiology and Infectious Disease,28
+HONR-193,Neuroscience,1
+HONR-193,Other,3
+HONR-292A,Anatomy and Physiology,6
+HONR-292A,Behavioral and Cognitive Neuroscience,2
+HONR-292A,Cell and Molecular Neuroscience,1
+HONR-292A,Exercise Science,2
+HONR-292A,Health Promotion,1
+HONR-292A,Microbiology and Infectious Disease,1
+HONR-292A,Other,1
+HONR-292B,Anatomy and Physiology,58
+HONR-292B,Behavioral and Cognitive Neuroscience,13
+HONR-292B,Cell and Molecular Neuroscience,8
+HONR-292B,Environmental and Public Health,2
+HONR-292B,Exercise Science,22
+HONR-292B,Health Promotion,2
+HONR-292B,Microbiology and Infectious Disease,25
+HONR-292B,Other,1
+HONR-292C,Anatomy and Physiology,20
+HONR-292C,Behavioral and Cognitive Neuroscience,2
+HONR-292C,Cell and Molecular Neuroscience,2
+HONR-292C,Exercise Science,6
+HONR-292C,Health Promotion,1
+HONR-292C,Microbiology and Infectious Disease,9
+HONR-292C,Other,1
+HONR-384,Behavioral and Cognitive Neuroscience,1
+HONR-384,Cell and Molecular Neuroscience,1
+HONR-384,Exercise Science,1
+HONR-384,Microbiology and Infectious Disease,1
+HONR-392,Anatomy and Physiology,33
+HONR-392,Behavioral and Cognitive Neuroscience,11
+HONR-392,Cell and Molecular Neuroscience,2
+HONR-392,Environmental and Public Health,1
+HONR-392,Exercise Science,20
+HONR-392,Health Promotion,2
+HONR-392,Microbiology and Infectious Disease,20
+HONR-392,Other,2
+HONR-397,Behavioral and Cognitive Neuroscience,1
+HONR-397,Exercise Science,3
+HONR-397,Health Promotion,2
+HONR-399,Anatomy and Physiology,61
+HONR-399,Behavioral and Cognitive Neuroscience,10
+HONR-399,Cell and Molecular Neuroscience,2
+HONR-399,Environmental and Public Health,1
+HONR-399,Exercise Science,18
+HONR-399,Health Promotion,2
+HONR-399,Microbiology and Infectious Disease,24
+HONR-399,Other,2
+HONR-492,Anatomy and Physiology,15
+HONR-492,Behavioral and Cognitive Neuroscience,7
+HONR-492,Exercise Science,16
+HONR-492,Health Promotion,2
+HONR-492,Microbiology and Infectious Disease,15
+HONR-492,Other,1
+HONR-499,Anatomy and Physiology,26
+HONR-499,Environmental and Public Health,1
+HONR-499,Exercise Science,6
+HONR-499,Health Promotion,1
+HONR-499,Microbiology and Infectious Disease,3
+HONR-499,Other,1
+HORT-100,Behavioral and Cognitive Neuroscience,2
+HORT-100,Cell and Molecular Neuroscience,2
+HORT-100,Exercise Science,4
+HORT-100,Health Promotion,2
+HORT-100,Neuroscience,1
+HORT-100,Other,1
+HORT-171,Anatomy and Physiology,6
+HORT-260,Cell and Molecular Neuroscience,2
+HORT-310,Cell and Molecular Neuroscience,1
+HORT-345,Anatomy and Physiology,1
+HORT-401,Anatomy and Physiology,1
+HORT-462,Cell and Molecular Neuroscience,1
+IDEA-110,Anatomy and Physiology,1
+IDEA-110,Exercise Science,1
+IDEA-110,Neuroscience,1
+IDEA-210,Anatomy and Physiology,7
+IDEA-210,Behavioral and Cognitive Neuroscience,1
+IDEA-210,Cell and Molecular Neuroscience,1
+IDEA-210,Exercise Science,6
+IDEA-210,Health Promotion,5
+IDEA-210,Other,3
+IE-116,Anatomy and Physiology,2
+IE-116,Exercise Science,2
+IE-149A,Anatomy and Physiology,1
+IE-149A,Exercise Science,1
+IE-182A,Anatomy and Physiology,1
+IE-182A,Behavioral and Cognitive Neuroscience,1
+IE-200,Anatomy and Physiology,1
+IE-200,Behavioral and Cognitive Neuroscience,1
+IE-200,Environmental and Public Health,1
+IE-200,Exercise Science,9
+IE-200,Health Promotion,8
+IE-252A,Cell and Molecular Neuroscience,1
+IE-252A,Health Promotion,1
+IE-252B,Anatomy and Physiology,1
+IE-252B,Behavioral and Cognitive Neuroscience,1
+IE-252B,Exercise Science,3
+IE-252B,Other,1
+IE-270,Health Promotion,1
+IE-282B,Health Promotion,1
+IE-382G,Anatomy and Physiology,6
+IE-382G,Behavioral and Cognitive Neuroscience,3
+IE-382G,Exercise Science,1
+IE-387,Anatomy and Physiology,1
+IE-387,Cell and Molecular Neuroscience,1
+IE-387,Environmental and Public Health,1
+IE-387,Exercise Science,1
+IE-387,Health Promotion,1
+IE-387,Microbiology and Infectious Disease,1
+INST-179A,Anatomy and Physiology,1
+INST-179B,Anatomy and Physiology,1
+INST-179B,Behavioral and Cognitive Neuroscience,1
+INST-179C,Anatomy and Physiology,1
+INST-179C,Exercise Science,1
+INST-179C,Other,1
+INST-182B,Anatomy and Physiology,1
+INST-182B,Microbiology and Infectious Disease,1
+INST-200,Anatomy and Physiology,5
+INST-200,Behavioral and Cognitive Neuroscience,2
+INST-200,Exercise Science,2
+INST-200,Health Promotion,4
+INTD-110,Behavioral and Cognitive Neuroscience,1
+INTD-110,Exercise Science,2
+INTD-110,Health Promotion,1
+INTD-110,Microbiology and Infectious Disease,1
+INTD-129,Behavioral and Cognitive Neuroscience,1
+INTD-129,Exercise Science,4
+INTD-129,Health Promotion,1
+INTD-129,Microbiology and Infectious Disease,1
+INTD-166,Behavioral and Cognitive Neuroscience,2
+INTD-166,Exercise Science,4
+INTD-166,Microbiology and Infectious Disease,2
+INTD-166,Other,1
+INTD-359,Microbiology and Infectious Disease,1
+IU-170,Anatomy and Physiology,2
+IU-170,Exercise Science,6
+IU-170,Microbiology and Infectious Disease,4
+IU-171,Anatomy and Physiology,2
+IU-171,Exercise Science,4
+IU-171,Microbiology and Infectious Disease,4
+IU-172,Anatomy and Physiology,14
+IU-172,Behavioral and Cognitive Neuroscience,5
+IU-172,Cell and Molecular Neuroscience,2
+IU-172,Environmental and Public Health,3
+IU-172,Exercise Science,11
+IU-172,Health Promotion,14
+IU-172,Microbiology and Infectious Disease,6
+IU-172A,Anatomy and Physiology,15
+IU-172A,Behavioral and Cognitive Neuroscience,3
+IU-172A,Environmental and Public Health,1
+IU-172A,Exercise Science,14
+IU-172A,Health Promotion,7
+IU-172A,Microbiology and Infectious Disease,3
+IU-172A,Other,2
+IU-173B,Anatomy and Physiology,2
+IU-173B,Behavioral and Cognitive Neuroscience,4
+IU-173B,Environmental and Public Health,3
+IU-173B,Exercise Science,6
+IU-173B,Health Promotion,3
+IU-173B,Microbiology and Infectious Disease,2
+IU-173B,Other,2
+IU-173C,Anatomy and Physiology,1
+IU-173C,Environmental and Public Health,1
+IU-174B,Anatomy and Physiology,5
+IU-174B,Behavioral and Cognitive Neuroscience,4
+IU-174B,Exercise Science,7
+IU-174B,Health Promotion,3
+IU-174B,Microbiology and Infectious Disease,2
+IU-174D,Environmental and Public Health,1
+IU-180A2,Environmental and Public Health,1
+IU-180A2,Exercise Science,1
+IU-180A6,Cell and Molecular Neuroscience,1
+IU-180A7,Anatomy and Physiology,1
+IU-180A7,Exercise Science,1
+IU-181A5,Anatomy and Physiology,1
+IU-181A5,Cell and Molecular Neuroscience,1
+IU-181A5,Health Promotion,1
+IU-270,Anatomy and Physiology,2
+IU-270,Health Promotion,1
+IU-270,Microbiology and Infectious Disease,2
+IU-271,Anatomy and Physiology,2
+IU-271,Health Promotion,1
+IU-271,Microbiology and Infectious Disease,2
+IU-274,Anatomy and Physiology,22
+IU-274,Behavioral and Cognitive Neuroscience,8
+IU-274,Cell and Molecular Neuroscience,4
+IU-274,Exercise Science,14
+IU-274,Health Promotion,1
+IU-274,Microbiology and Infectious Disease,7
+IU-274,Other,1
+IU-300,Anatomy and Physiology,1
+IU-300,Behavioral and Cognitive Neuroscience,2
+IU-300,Cell and Molecular Neuroscience,1
+IU-300,Environmental and Public Health,1
+IU-300,Microbiology and Infectious Disease,3
+IU-470,Anatomy and Physiology,2
+IU-470,Exercise Science,2
+IU-470,Health Promotion,2
+IU-470,Microbiology and Infectious Disease,2
+IU-471,Anatomy and Physiology,2
+IU-471,Health Promotion,2
+IU-471,Microbiology and Infectious Disease,1
+IU-498,Anatomy and Physiology,1
+JTC-100,Anatomy and Physiology,4
+JTC-100,Environmental and Public Health,2
+JTC-100,Exercise Science,11
+JTC-100,Health Promotion,12
+JTC-100,Microbiology and Infectious Disease,2
+JTC-100,Other,1
+JTC-192,Exercise Science,1
+JTC-203,Health Promotion,1
+JTC-210,Exercise Science,11
+JTC-210,Microbiology and Infectious Disease,2
+JTC-210,Other,1
+JTC-211,Exercise Science,4
+JTC-211,Microbiology and Infectious Disease,2
+JTC-270,Exercise Science,2
+JTC-300,Anatomy and Physiology,43
+JTC-300,Behavioral and Cognitive Neuroscience,2
+JTC-300,Environmental and Public Health,2
+JTC-300,Exercise Science,11
+JTC-300,Health Promotion,3
+JTC-300,Microbiology and Infectious Disease,12
+JTC-301,Anatomy and Physiology,3
+JTC-301,Exercise Science,2
+JTC-301,Microbiology and Infectious Disease,3
+JTC-326,Microbiology and Infectious Disease,1
+JTC-350,Microbiology and Infectious Disease,1
+JTC-354,Microbiology and Infectious Disease,1
+JTC-490,Exercise Science,1
+KEY-175,Anatomy and Physiology,6
+KEY-175,Behavioral and Cognitive Neuroscience,3
+KEY-175,Cell and Molecular Neuroscience,1
+KEY-175,Exercise Science,6
+KEY-175,Microbiology and Infectious Disease,3
+KEY-175,Neuroscience,1
+KEY-175,Other,1
+KEY-192A,Anatomy and Physiology,18
+KEY-192A,Behavioral and Cognitive Neuroscience,5
+KEY-192A,Environmental and Public Health,5
+KEY-192A,Exercise Science,23
+KEY-192A,Health Promotion,5
+KEY-192A,Microbiology and Infectious Disease,7
+KEY-192A,Other,4
+KEY-192B,Exercise Science,2
+KEY-192B,Health Promotion,1
+KEY-192C,Anatomy and Physiology,10
+KEY-192C,Behavioral and Cognitive Neuroscience,2
+KEY-192C,Cell and Molecular Neuroscience,1
+KEY-192C,Environmental and Public Health,3
+KEY-192C,Exercise Science,14
+KEY-192C,Health Promotion,7
+KEY-192C,Microbiology and Infectious Disease,5
+KEY-192C,Other,5
+KEY-272,Anatomy and Physiology,1
+KEY-272,Cell and Molecular Neuroscience,2
+KEY-272,Environmental and Public Health,1
+KEY-272,Exercise Science,3
+KEY-272,Health Promotion,3
+LAND-110,Health Promotion,6
+LAND-220,Anatomy and Physiology,1
+LARA-250,Anatomy and Physiology,1
+LARA-250,Microbiology and Infectious Disease,1
+LASL-100,Anatomy and Physiology,8
+LASL-100,Behavioral and Cognitive Neuroscience,3
+LASL-100,Cell and Molecular Neuroscience,1
+LASL-100,Environmental and Public Health,1
+LASL-100,Exercise Science,8
+LASL-100,Health Promotion,3
+LASL-100,Microbiology and Infectious Disease,4
+LASL-100,Neuroscience,1
+LASL-101,Anatomy and Physiology,5
+LASL-101,Behavioral and Cognitive Neuroscience,1
+LASL-101,Cell and Molecular Neuroscience,1
+LASL-101,Environmental and Public Health,1
+LASL-101,Exercise Science,1
+LASL-101,Health Promotion,2
+LASL-101,Microbiology and Infectious Disease,3
+LASL-200,Anatomy and Physiology,5
+LASL-200,Behavioral and Cognitive Neuroscience,1
+LASL-200,Cell and Molecular Neuroscience,1
+LASL-200,Environmental and Public Health,1
+LASL-200,Exercise Science,2
+LASL-200,Health Promotion,2
+LASL-200,Microbiology and Infectious Disease,3
+LASL-201,Anatomy and Physiology,5
+LASL-201,Cell and Molecular Neuroscience,1
+LASL-201,Health Promotion,2
+LASL-201,Microbiology and Infectious Disease,3
+LASL-304,Anatomy and Physiology,1
+LASL-304,Microbiology and Infectious Disease,2
+LASL-347,Anatomy and Physiology,1
+LB-173,Anatomy and Physiology,7
+LB-173,Behavioral and Cognitive Neuroscience,1
+LB-173,Cell and Molecular Neuroscience,1
+LB-173,Exercise Science,4
+LB-173,Health Promotion,6
+LB-173,Microbiology and Infectious Disease,1
+LB-173,Other,2
+LB-205,Anatomy and Physiology,1
+LB-300,Anatomy and Physiology,16
+LB-300,Microbiology and Infectious Disease,2
+LB-360,Anatomy and Physiology,1
+LCHI-100,Behavioral and Cognitive Neuroscience,1
+LCHI-100,Health Promotion,1
+LCHI-100,Microbiology and Infectious Disease,1
+LCHI-101,Health Promotion,1
+LCHI-200,Health Promotion,1
+LCHI-200,Microbiology and Infectious Disease,1
+LCHI-201,Health Promotion,1
+LCHI-304,Behavioral and Cognitive Neuroscience,1
+LCHI-304,Health Promotion,1
+LCHI-305,Behavioral and Cognitive Neuroscience,1
+LCHI-305,Health Promotion,1
+LCHI-380A1,Behavioral and Cognitive Neuroscience,1
+LCHI-380A1,Health Promotion,1
+LCHI-400,Behavioral and Cognitive Neuroscience,1
+LCHI-480A1,Health Promotion,1
+LFRE-100,Anatomy and Physiology,8
+LFRE-100,Exercise Science,3
+LFRE-100,Health Promotion,2
+LFRE-101,Anatomy and Physiology,4
+LFRE-101,Behavioral and Cognitive Neuroscience,2
+LFRE-101,Exercise Science,6
+LFRE-200,Anatomy and Physiology,2
+LFRE-200,Behavioral and Cognitive Neuroscience,1
+LFRE-200,Exercise Science,2
+LFRE-201,Exercise Science,1
+LFRE-201,Microbiology and Infectious Disease,1
+LFRE-251,Microbiology and Infectious Disease,1
+LFRE-300,Anatomy and Physiology,1
+LFRE-300,Behavioral and Cognitive Neuroscience,1
+LFRE-300,Exercise Science,1
+LFRE-300,Microbiology and Infectious Disease,2
+LFRE-301,Anatomy and Physiology,1
+LFRE-313,Anatomy and Physiology,1
+LFRE-335,Anatomy and Physiology,1
+LFRE-365,Anatomy and Physiology,1
+LFRE-365,Behavioral and Cognitive Neuroscience,1
+LFRE-400,Anatomy and Physiology,1
+LFRE-433A,Anatomy and Physiology,1
+LGEN-465E,Anatomy and Physiology,1
+LGER-100,Anatomy and Physiology,2
+LGER-100,Behavioral and Cognitive Neuroscience,2
+LGER-100,Health Promotion,4
+LGER-100,Microbiology and Infectious Disease,4
+LGER-101,Anatomy and Physiology,2
+LGER-101,Exercise Science,2
+LGER-101,Health Promotion,2
+LGER-101,Microbiology and Infectious Disease,2
+LGER-251,Anatomy and Physiology,5
+LGER-251,Exercise Science,1
+LGER-251,Microbiology and Infectious Disease,1
+LGER-345,Cell and Molecular Neuroscience,1
+LGER-400,Cell and Molecular Neuroscience,1
+LGER-434,Cell and Molecular Neuroscience,1
+LIFE-102,Anatomy and Physiology,817
+LIFE-102,Behavioral and Cognitive Neuroscience,225
+LIFE-102,Cell and Molecular Neuroscience,98
+LIFE-102,Environmental and Public Health,99
+LIFE-102,Exercise Science,1246
+LIFE-102,Health Promotion,501
+LIFE-102,Microbiology and Infectious Disease,245
+LIFE-102,Neuroscience,36
+LIFE-102,Other,133
+LIFE-103,Anatomy and Physiology,50
+LIFE-103,Behavioral and Cognitive Neuroscience,11
+LIFE-103,Cell and Molecular Neuroscience,4
+LIFE-103,Environmental and Public Health,3
+LIFE-103,Exercise Science,175
+LIFE-103,Health Promotion,35
+LIFE-103,Microbiology and Infectious Disease,44
+LIFE-103,Neuroscience,1
+LIFE-103,Other,14
+LIFE-162,Anatomy and Physiology,16
+LIFE-162,Behavioral and Cognitive Neuroscience,3
+LIFE-162,Environmental and Public Health,3
+LIFE-162,Exercise Science,13
+LIFE-162,Health Promotion,3
+LIFE-162,Microbiology and Infectious Disease,5
+LIFE-162,Other,1
+LIFE-201B,Anatomy and Physiology,55
+LIFE-201B,Behavioral and Cognitive Neuroscience,88
+LIFE-201B,Cell and Molecular Neuroscience,41
+LIFE-201B,Environmental and Public Health,2
+LIFE-201B,Exercise Science,11
+LIFE-201B,Health Promotion,2
+LIFE-201B,Microbiology and Infectious Disease,9
+LIFE-201B,Neuroscience,7
+LIFE-201B,Other,6
+LIFE-202B,Anatomy and Physiology,3
+LIFE-202B,Behavioral and Cognitive Neuroscience,11
+LIFE-202B,Cell and Molecular Neuroscience,7
+LIFE-203,Anatomy and Physiology,20
+LIFE-203,Behavioral and Cognitive Neuroscience,185
+LIFE-203,Cell and Molecular Neuroscience,102
+LIFE-203,Environmental and Public Health,2
+LIFE-203,Exercise Science,18
+LIFE-203,Health Promotion,2
+LIFE-203,Microbiology and Infectious Disease,8
+LIFE-203,Neuroscience,13
+LIFE-203,Other,9
+LIFE-205,Anatomy and Physiology,2
+LIFE-205,Behavioral and Cognitive Neuroscience,1
+LIFE-205,Exercise Science,4
+LIFE-205,Health Promotion,2
+LIFE-206,Anatomy and Physiology,1
+LIFE-206,Exercise Science,3
+LIFE-210,Anatomy and Physiology,339
+LIFE-210,Behavioral and Cognitive Neuroscience,94
+LIFE-210,Cell and Molecular Neuroscience,48
+LIFE-210,Environmental and Public Health,1
+LIFE-210,Exercise Science,17
+LIFE-210,Health Promotion,2
+LIFE-210,Microbiology and Infectious Disease,8
+LIFE-210,Neuroscience,5
+LIFE-210,Other,6
+LIFE-211,Anatomy and Physiology,13
+LIFE-211,Behavioral and Cognitive Neuroscience,8
+LIFE-211,Cell and Molecular Neuroscience,6
+LIFE-211,Neuroscience,1
+LIFE-212,Anatomy and Physiology,552
+LIFE-212,Behavioral and Cognitive Neuroscience,128
+LIFE-212,Cell and Molecular Neuroscience,72
+LIFE-212,Exercise Science,10
+LIFE-212,Microbiology and Infectious Disease,8
+LIFE-212,Neuroscience,4
+LIFE-212,Other,6
+LIFE-320,Anatomy and Physiology,2
+LIFE-320,Exercise Science,5
+LIFE-320,Health Promotion,1
+LIFE-320,Microbiology and Infectious Disease,5
+LIFE-320,Other,1
+LITA-200,Cell and Molecular Neuroscience,1
+LITA-201,Health Promotion,1
+LJPN-100,Anatomy and Physiology,2
+LJPN-100,Microbiology and Infectious Disease,1
+LJPN-100,Other,1
+LJPN-101,Anatomy and Physiology,2
+LJPN-101,Microbiology and Infectious Disease,1
+LJPN-200,Anatomy and Physiology,6
+LJPN-200,Exercise Science,2
+LJPN-200,Microbiology and Infectious Disease,2
+LJPN-201,Anatomy and Physiology,2
+LJPN-201,Exercise Science,2
+LJPN-201,Microbiology and Infectious Disease,2
+LJPN-304,Anatomy and Physiology,1
+LJPN-304,Exercise Science,1
+LJPN-304,Microbiology and Infectious Disease,1
+LJPN-305,Anatomy and Physiology,1
+LJPN-305,Exercise Science,1
+LJPN-352A,Anatomy and Physiology,1
+LJPN-352A,Exercise Science,1
+LJPN-352A,Microbiology and Infectious Disease,1
+LKOR-100,Anatomy and Physiology,8
+LKOR-100,Environmental and Public Health,2
+LKOR-101,Anatomy and Physiology,6
+LKOR-101,Environmental and Public Health,1
+LKOR-200,Anatomy and Physiology,2
+LKOR-200,Behavioral and Cognitive Neuroscience,2
+LKOR-201,Anatomy and Physiology,1
+LKOR-201,Behavioral and Cognitive Neuroscience,2
+LKOR-300,Behavioral and Cognitive Neuroscience,1
+LRUS-100,Microbiology and Infectious Disease,1
+LSPA-100,Anatomy and Physiology,3
+LSPA-100,Cell and Molecular Neuroscience,4
+LSPA-100,Exercise Science,2
+LSPA-100,Health Promotion,4
+LSPA-101,Anatomy and Physiology,14
+LSPA-101,Cell and Molecular Neuroscience,1
+LSPA-101,Exercise Science,8
+LSPA-101,Health Promotion,8
+LSPA-101,Microbiology and Infectious Disease,4
+LSPA-108,Anatomy and Physiology,5
+LSPA-108,Exercise Science,3
+LSPA-108,Other,2
+LSPA-200,Anatomy and Physiology,14
+LSPA-200,Exercise Science,8
+LSPA-200,Health Promotion,1
+LSPA-200,Microbiology and Infectious Disease,4
+LSPA-200,Other,2
+LSPA-201,Anatomy and Physiology,18
+LSPA-201,Behavioral and Cognitive Neuroscience,1
+LSPA-201,Exercise Science,12
+LSPA-201,Health Promotion,3
+LSPA-201,Microbiology and Infectious Disease,3
+LSPA-208,Microbiology and Infectious Disease,1
+LSPA-300,Anatomy and Physiology,21
+LSPA-300,Behavioral and Cognitive Neuroscience,3
+LSPA-300,Cell and Molecular Neuroscience,1
+LSPA-300,Environmental and Public Health,2
+LSPA-300,Exercise Science,5
+LSPA-300,Health Promotion,2
+LSPA-300,Microbiology and Infectious Disease,6
+LSPA-300,Neuroscience,1
+LSPA-301,Anatomy and Physiology,10
+LSPA-301,Behavioral and Cognitive Neuroscience,1
+LSPA-301,Environmental and Public Health,1
+LSPA-301,Exercise Science,5
+LSPA-301,Health Promotion,1
+LSPA-301,Microbiology and Infectious Disease,2
+LSPA-310,Anatomy and Physiology,7
+LSPA-310,Cell and Molecular Neuroscience,1
+LSPA-310,Health Promotion,1
+LSPA-310,Microbiology and Infectious Disease,2
+LSPA-313,Anatomy and Physiology,1
+LSPA-313,Behavioral and Cognitive Neuroscience,1
+LSPA-313,Environmental and Public Health,1
+LSPA-313,Health Promotion,1
+LSPA-326,Behavioral and Cognitive Neuroscience,1
+LSPA-335,Anatomy and Physiology,6
+LSPA-335,Behavioral and Cognitive Neuroscience,1
+LSPA-335,Cell and Molecular Neuroscience,1
+LSPA-335,Environmental and Public Health,1
+LSPA-335,Exercise Science,1
+LSPA-335,Health Promotion,1
+LSPA-340,Anatomy and Physiology,10
+LSPA-342,Anatomy and Physiology,10
+LSPA-343,Anatomy and Physiology,8
+LSPA-345,Anatomy and Physiology,1
+LSPA-346,Anatomy and Physiology,8
+LSPA-346,Behavioral and Cognitive Neuroscience,2
+LSPA-346,Environmental and Public Health,1
+LSPA-346,Exercise Science,2
+LSPA-346,Microbiology and Infectious Disease,1
+LSPA-348,Anatomy and Physiology,4
+LSPA-400,Anatomy and Physiology,8
+LSPA-400,Cell and Molecular Neuroscience,1
+LSPA-400,Environmental and Public Health,1
+LSPA-400,Health Promotion,1
+LSPA-400,Microbiology and Infectious Disease,1
+LSPA-436,Anatomy and Physiology,1
+LSPA-436,Environmental and Public Health,1
+LSPA-443,Anatomy and Physiology,1
+LSPA-443,Exercise Science,1
+LSPA-444,Anatomy and Physiology,3
+LSPA-444,Microbiology and Infectious Disease,1
+LSPA-495,Exercise Science,1
+MATH-101,Anatomy and Physiology,2
+MATH-101,Behavioral and Cognitive Neuroscience,2
+MATH-101,Exercise Science,10
+MATH-101,Health Promotion,12
+MATH-101,Other,6
+MATH-105,Microbiology and Infectious Disease,2
+MATH-116,Anatomy and Physiology,6
+MATH-116,Behavioral and Cognitive Neuroscience,3
+MATH-116,Environmental and Public Health,1
+MATH-116,Exercise Science,22
+MATH-116,Health Promotion,18
+MATH-116,Microbiology and Infectious Disease,2
+MATH-116,Neuroscience,1
+MATH-116,Other,1
+MATH-117,Anatomy and Physiology,56
+MATH-117,Behavioral and Cognitive Neuroscience,20
+MATH-117,Cell and Molecular Neuroscience,9
+MATH-117,Environmental and Public Health,14
+MATH-117,Exercise Science,209
+MATH-117,Health Promotion,113
+MATH-117,Microbiology and Infectious Disease,17
+MATH-117,Neuroscience,3
+MATH-117,Other,15
+MATH-118,Anatomy and Physiology,109
+MATH-118,Behavioral and Cognitive Neuroscience,40
+MATH-118,Cell and Molecular Neuroscience,18
+MATH-118,Environmental and Public Health,28
+MATH-118,Exercise Science,451
+MATH-118,Health Promotion,194
+MATH-118,Microbiology and Infectious Disease,44
+MATH-118,Neuroscience,5
+MATH-118,Other,36
+MATH-120,Anatomy and Physiology,10
+MATH-120,Behavioral and Cognitive Neuroscience,5
+MATH-120,Cell and Molecular Neuroscience,1
+MATH-120,Exercise Science,33
+MATH-120,Health Promotion,34
+MATH-120,Microbiology and Infectious Disease,1
+MATH-120,Other,5
+MATH-124,Anatomy and Physiology,154
+MATH-124,Behavioral and Cognitive Neuroscience,42
+MATH-124,Cell and Molecular Neuroscience,22
+MATH-124,Environmental and Public Health,29
+MATH-124,Exercise Science,396
+MATH-124,Health Promotion,179
+MATH-124,Microbiology and Infectious Disease,55
+MATH-124,Neuroscience,5
+MATH-124,Other,27
+MATH-125,Anatomy and Physiology,208
+MATH-125,Behavioral and Cognitive Neuroscience,78
+MATH-125,Cell and Molecular Neuroscience,24
+MATH-125,Environmental and Public Health,44
+MATH-125,Exercise Science,474
+MATH-125,Health Promotion,320
+MATH-125,Microbiology and Infectious Disease,78
+MATH-125,Neuroscience,4
+MATH-125,Other,32
+MATH-126,Anatomy and Physiology,17
+MATH-126,Behavioral and Cognitive Neuroscience,10
+MATH-126,Cell and Molecular Neuroscience,21
+MATH-126,Environmental and Public Health,2
+MATH-126,Exercise Science,22
+MATH-126,Health Promotion,8
+MATH-126,Microbiology and Infectious Disease,12
+MATH-126,Neuroscience,1
+MATH-126,Other,1
+MATH-127,Anatomy and Physiology,14
+MATH-127,Behavioral and Cognitive Neuroscience,6
+MATH-127,Environmental and Public Health,2
+MATH-127,Exercise Science,16
+MATH-127,Health Promotion,6
+MATH-127,Microbiology and Infectious Disease,4
+MATH-141,Anatomy and Physiology,2
+MATH-141,Exercise Science,1
+MATH-141,Health Promotion,1
+MATH-151,Cell and Molecular Neuroscience,1
+MATH-155,Anatomy and Physiology,254
+MATH-155,Behavioral and Cognitive Neuroscience,69
+MATH-155,Cell and Molecular Neuroscience,31
+MATH-155,Environmental and Public Health,5
+MATH-155,Exercise Science,34
+MATH-155,Health Promotion,8
+MATH-155,Microbiology and Infectious Disease,43
+MATH-155,Neuroscience,5
+MATH-155,Other,7
+MATH-160,Anatomy and Physiology,14
+MATH-160,Cell and Molecular Neuroscience,8
+MATH-160,Environmental and Public Health,6
+MATH-160,Exercise Science,20
+MATH-160,Health Promotion,9
+MATH-160,Microbiology and Infectious Disease,6
+MATH-160,Other,1
+MATH-161,Anatomy and Physiology,11
+MATH-161,Behavioral and Cognitive Neuroscience,2
+MATH-161,Cell and Molecular Neuroscience,29
+MATH-161,Environmental and Public Health,6
+MATH-161,Exercise Science,13
+MATH-161,Health Promotion,4
+MATH-161,Microbiology and Infectious Disease,5
+MATH-161,Neuroscience,2
+MATH-161,Other,1
+MATH-192,Health Promotion,1
+MATH-235,Cell and Molecular Neuroscience,1
+MATH-255,Anatomy and Physiology,2
+MATH-255,Behavioral and Cognitive Neuroscience,4
+MATH-255,Cell and Molecular Neuroscience,22
+MATH-255,Environmental and Public Health,1
+MATH-255,Exercise Science,4
+MATH-255,Microbiology and Infectious Disease,2
+MATH-255,Other,3
+MATH-261,Anatomy and Physiology,4
+MATH-261,Cell and Molecular Neuroscience,3
+MATH-261,Exercise Science,5
+MATH-261,Microbiology and Infectious Disease,3
+MATH-271,Microbiology and Infectious Disease,1
+MATH-340,Anatomy and Physiology,5
+MATH-340,Exercise Science,2
+MATH-340,Microbiology and Infectious Disease,1
+MATH-348,Cell and Molecular Neuroscience,2
+MATH-369,Anatomy and Physiology,2
+MATH-369,Behavioral and Cognitive Neuroscience,1
+MATH-369,Cell and Molecular Neuroscience,4
+MATH-369,Microbiology and Infectious Disease,1
+MATH-384,Cell and Molecular Neuroscience,1
+MATH-455,Behavioral and Cognitive Neuroscience,1
+MATH-455,Cell and Molecular Neuroscience,1
+MATH-455,Microbiology and Infectious Disease,1
+MECH-103,Anatomy and Physiology,5
+MECH-103,Behavioral and Cognitive Neuroscience,1
+MECH-103,Cell and Molecular Neuroscience,1
+MECH-103,Environmental and Public Health,1
+MECH-103,Exercise Science,10
+MECH-103,Health Promotion,1
+MECH-105,Anatomy and Physiology,1
+MECH-105,Cell and Molecular Neuroscience,1
+MECH-105,Environmental and Public Health,1
+MECH-105,Exercise Science,3
+MECH-105,Health Promotion,1
+MECH-180A1,Behavioral and Cognitive Neuroscience,1
+MECH-200A,Anatomy and Physiology,1
+MECH-200A,Environmental and Public Health,1
+MECH-200A,Exercise Science,2
+MECH-200B,Anatomy and Physiology,1
+MECH-200B,Environmental and Public Health,1
+MECH-200B,Exercise Science,2
+MECH-201,Anatomy and Physiology,2
+MECH-201,Environmental and Public Health,2
+MECH-201,Exercise Science,4
+MECH-202,Environmental and Public Health,2
+MECH-231,Anatomy and Physiology,2
+MECH-231,Exercise Science,2
+MECH-262,Exercise Science,1
+MECH-324,Anatomy and Physiology,2
+MECH-325,Anatomy and Physiology,1
+MECH-337,Anatomy and Physiology,2
+MECH-342,Anatomy and Physiology,1
+MGT-301,Anatomy and Physiology,1
+MGT-305,Anatomy and Physiology,7
+MGT-305,Cell and Molecular Neuroscience,1
+MGT-305,Environmental and Public Health,2
+MGT-305,Exercise Science,8
+MGT-305,Health Promotion,7
+MGT-305,Microbiology and Infectious Disease,3
+MGT-320,Anatomy and Physiology,1
+MGT-330,Behavioral and Cognitive Neuroscience,1
+MGT-330,Health Promotion,2
+MGT-340,Behavioral and Cognitive Neuroscience,1
+MGT-340,Environmental and Public Health,1
+MGT-340,Exercise Science,2
+MGT-340,Health Promotion,2
+MGT-360,Behavioral and Cognitive Neuroscience,1
+MGT-375,Anatomy and Physiology,1
+MGT-376,Anatomy and Physiology,1
+MGT-377,Anatomy and Physiology,1
+MGT-411,Anatomy and Physiology,1
+MGT-420,Behavioral and Cognitive Neuroscience,1
+MGT-420,Health Promotion,1
+MGT-476,Anatomy and Physiology,1
+MGT-478,Anatomy and Physiology,1
+MGT-486A,Anatomy and Physiology,2
+MGT-486B,Anatomy and Physiology,2
+MIP-101,Anatomy and Physiology,2
+MIP-101,Exercise Science,1
+MIP-101,Health Promotion,1
+MIP-101,Microbiology and Infectious Disease,4
+MIP-150,Anatomy and Physiology,19
+MIP-150,Environmental and Public Health,3
+MIP-150,Exercise Science,2
+MIP-150,Microbiology and Infectious Disease,133
+MIP-150,Neuroscience,1
+MIP-150,Other,5
+MIP-192,Environmental and Public Health,1
+MIP-250,Anatomy and Physiology,7
+MIP-250,Cell and Molecular Neuroscience,2
+MIP-250,Environmental and Public Health,4
+MIP-250,Exercise Science,1
+MIP-250,Microbiology and Infectious Disease,151
+MIP-250,Other,4
+MIP-260,Anatomy and Physiology,13
+MIP-260,Environmental and Public Health,30
+MIP-260,Microbiology and Infectious Disease,127
+MIP-260,Other,6
+MIP-270,Microbiology and Infectious Disease,17
+MIP-280A4,Microbiology and Infectious Disease,2
+MIP-281A1,Microbiology and Infectious Disease,2
+MIP-292,Environmental and Public Health,1
+MIP-292,Microbiology and Infectious Disease,4
+MIP-292,Other,1
+MIP-298,Microbiology and Infectious Disease,7
+MIP-298,Other,1
+MIP-300,Anatomy and Physiology,175
+MIP-300,Behavioral and Cognitive Neuroscience,10
+MIP-300,Cell and Molecular Neuroscience,30
+MIP-300,Environmental and Public Health,28
+MIP-300,Exercise Science,30
+MIP-300,Health Promotion,1
+MIP-300,Microbiology and Infectious Disease,138
+MIP-300,Other,12
+MIP-302,Anatomy and Physiology,125
+MIP-302,Behavioral and Cognitive Neuroscience,5
+MIP-302,Cell and Molecular Neuroscience,2
+MIP-302,Environmental and Public Health,22
+MIP-302,Exercise Science,16
+MIP-302,Microbiology and Infectious Disease,131
+MIP-302,Other,8
+MIP-303,Anatomy and Physiology,9
+MIP-303,Behavioral and Cognitive Neuroscience,2
+MIP-303,Cell and Molecular Neuroscience,1
+MIP-303,Exercise Science,3
+MIP-303,Microbiology and Infectious Disease,34
+MIP-303,Other,1
+MIP-315,Anatomy and Physiology,9
+MIP-315,Cell and Molecular Neuroscience,2
+MIP-315,Environmental and Public Health,4
+MIP-315,Exercise Science,3
+MIP-315,Health Promotion,2
+MIP-315,Microbiology and Infectious Disease,21
+MIP-315,Other,1
+MIP-334,Microbiology and Infectious Disease,1
+MIP-342,Anatomy and Physiology,55
+MIP-342,Behavioral and Cognitive Neuroscience,2
+MIP-342,Cell and Molecular Neuroscience,40
+MIP-342,Microbiology and Infectious Disease,214
+MIP-342,Other,4
+MIP-343,Anatomy and Physiology,1
+MIP-343,Microbiology and Infectious Disease,45
+MIP-351,Anatomy and Physiology,2
+MIP-351,Microbiology and Infectious Disease,24
+MIP-351,Other,1
+MIP-352,Microbiology and Infectious Disease,16
+MIP-355,Microbiology and Infectious Disease,12
+MIP-372,Behavioral and Cognitive Neuroscience,1
+MIP-372,Microbiology and Infectious Disease,9
+MIP-380A2,Microbiology and Infectious Disease,2
+MIP-380A2,Other,1
+MIP-381A1,Anatomy and Physiology,1
+MIP-381A1,Microbiology and Infectious Disease,9
+MIP-384,Anatomy and Physiology,11
+MIP-384,Environmental and Public Health,2
+MIP-384,Microbiology and Infectious Disease,50
+MIP-400A,Microbiology and Infectious Disease,1
+MIP-400C,Microbiology and Infectious Disease,13
+MIP-400H,Anatomy and Physiology,1
+MIP-400H,Microbiology and Infectious Disease,9
+MIP-401,Microbiology and Infectious Disease,33
+MIP-401,Other,2
+MIP-410,Microbiology and Infectious Disease,9
+MIP-420,Anatomy and Physiology,3
+MIP-420,Microbiology and Infectious Disease,51
+MIP-420,Other,1
+MIP-425,Anatomy and Physiology,1
+MIP-425,Microbiology and Infectious Disease,13
+MIP-443,Anatomy and Physiology,2
+MIP-443,Microbiology and Infectious Disease,8
+MIP-450,Anatomy and Physiology,3
+MIP-450,Microbiology and Infectious Disease,63
+MIP-450,Other,2
+MIP-462,Microbiology and Infectious Disease,12
+MIP-495,Anatomy and Physiology,4
+MIP-495,Cell and Molecular Neuroscience,2
+MIP-495,Microbiology and Infectious Disease,2
+MIP-496,Microbiology and Infectious Disease,13
+MIP-498,Anatomy and Physiology,1
+MIP-498,Microbiology and Infectious Disease,11
+MIP-498,Other,1
+MIP-525,Microbiology and Infectious Disease,3
+MIP-533,Microbiology and Infectious Disease,4
+MIP-542,Microbiology and Infectious Disease,1
+MIP-550,Microbiology and Infectious Disease,7
+MIP-554,Behavioral and Cognitive Neuroscience,1
+MIP-554,Microbiology and Infectious Disease,1
+MIP-651,Microbiology and Infectious Disease,1
+MKT-300,Anatomy and Physiology,1
+MKT-300,Exercise Science,1
+MKT-300,Health Promotion,1
+MKT-305,Anatomy and Physiology,2
+MKT-305,Behavioral and Cognitive Neuroscience,1
+MKT-305,Environmental and Public Health,2
+MKT-305,Exercise Science,10
+MKT-305,Health Promotion,165
+MKT-305,Microbiology and Infectious Disease,1
+MKT-305,Other,5
+MKT-307,Exercise Science,2
+MKT-307,Health Promotion,6
+MKT-330,Environmental and Public Health,1
+MKT-330,Exercise Science,1
+MKT-330,Health Promotion,1
+MKT-362,Exercise Science,1
+MKT-363,Exercise Science,1
+MKT-363,Health Promotion,1
+MKT-440,Anatomy and Physiology,1
+MKT-492,Cell and Molecular Neuroscience,1
+MLSC-101,Anatomy and Physiology,4
+MLSC-101,Exercise Science,8
+MLSC-101,Health Promotion,2
+MLSC-101,Microbiology and Infectious Disease,3
+MLSC-101,Neuroscience,1
+MLSC-101,Other,1
+MLSC-102,Anatomy and Physiology,2
+MLSC-102,Exercise Science,7
+MLSC-102,Health Promotion,1
+MLSC-102,Microbiology and Infectious Disease,2
+MLSC-196,Anatomy and Physiology,3
+MLSC-196,Exercise Science,8
+MLSC-196,Health Promotion,1
+MLSC-196,Microbiology and Infectious Disease,3
+MLSC-196,Neuroscience,1
+MLSC-196,Other,1
+MLSC-197,Anatomy and Physiology,2
+MLSC-197,Exercise Science,7
+MLSC-197,Health Promotion,1
+MLSC-197,Microbiology and Infectious Disease,2
+MLSC-201,Anatomy and Physiology,2
+MLSC-201,Exercise Science,7
+MLSC-201,Health Promotion,2
+MLSC-201,Microbiology and Infectious Disease,2
+MLSC-202,Anatomy and Physiology,1
+MLSC-202,Exercise Science,1
+MLSC-202,Health Promotion,2
+MLSC-202,Microbiology and Infectious Disease,1
+MLSC-296,Anatomy and Physiology,2
+MLSC-296,Exercise Science,7
+MLSC-296,Health Promotion,2
+MLSC-296,Microbiology and Infectious Disease,2
+MLSC-297,Anatomy and Physiology,1
+MLSC-297,Exercise Science,1
+MLSC-297,Health Promotion,2
+MLSC-297,Microbiology and Infectious Disease,1
+MLSC-301,Anatomy and Physiology,1
+MLSC-301,Exercise Science,1
+MLSC-301,Health Promotion,1
+MLSC-301,Microbiology and Infectious Disease,1
+MLSC-302,Exercise Science,1
+MLSC-302,Health Promotion,1
+MLSC-357,Exercise Science,1
+MLSC-396,Anatomy and Physiology,1
+MLSC-396,Exercise Science,1
+MLSC-396,Health Promotion,1
+MLSC-396,Microbiology and Infectious Disease,1
+MLSC-397,Exercise Science,1
+MLSC-397,Health Promotion,1
+MLSC-401,Exercise Science,1
+MLSC-401,Health Promotion,1
+MLSC-402,Exercise Science,1
+MLSC-402,Health Promotion,1
+MLSC-496,Exercise Science,1
+MLSC-496,Health Promotion,1
+MLSC-497,Exercise Science,1
+MLSC-497,Health Promotion,1
+MU-100,Anatomy and Physiology,135
+MU-100,Behavioral and Cognitive Neuroscience,19
+MU-100,Cell and Molecular Neuroscience,9
+MU-100,Environmental and Public Health,16
+MU-100,Exercise Science,356
+MU-100,Health Promotion,156
+MU-100,Microbiology and Infectious Disease,42
+MU-100,Neuroscience,3
+MU-100,Other,28
+MU-110,Exercise Science,1
+MU-111,Anatomy and Physiology,3
+MU-111,Behavioral and Cognitive Neuroscience,1
+MU-111,Cell and Molecular Neuroscience,2
+MU-111,Environmental and Public Health,1
+MU-111,Exercise Science,3
+MU-111,Health Promotion,2
+MU-111,Microbiology and Infectious Disease,1
+MU-117,Anatomy and Physiology,3
+MU-117,Exercise Science,2
+MU-117,Microbiology and Infectious Disease,1
+MU-118,Anatomy and Physiology,2
+MU-127,Anatomy and Physiology,2
+MU-127,Exercise Science,1
+MU-127,Microbiology and Infectious Disease,1
+MU-128,Anatomy and Physiology,2
+MU-131,Anatomy and Physiology,2
+MU-131,Exercise Science,1
+MU-132,Anatomy and Physiology,6
+MU-132,Behavioral and Cognitive Neuroscience,2
+MU-132,Cell and Molecular Neuroscience,2
+MU-132,Exercise Science,19
+MU-132,Health Promotion,13
+MU-132,Microbiology and Infectious Disease,3
+MU-132,Other,1
+MU-133,Anatomy and Physiology,1
+MU-133,Cell and Molecular Neuroscience,1
+MU-133,Exercise Science,2
+MU-133,Microbiology and Infectious Disease,2
+MU-150,Anatomy and Physiology,2
+MU-150,Exercise Science,1
+MU-150,Microbiology and Infectious Disease,1
+MU-151B,Anatomy and Physiology,1
+MU-159,Microbiology and Infectious Disease,1
+MU-170D,Behavioral and Cognitive Neuroscience,3
+MU-202,Anatomy and Physiology,2
+MU-202,Behavioral and Cognitive Neuroscience,1
+MU-202,Environmental and Public Health,3
+MU-202,Exercise Science,5
+MU-202,Microbiology and Infectious Disease,5
+MU-204,Anatomy and Physiology,16
+MU-204,Behavioral and Cognitive Neuroscience,4
+MU-204,Exercise Science,8
+MU-204,Health Promotion,8
+MU-204,Microbiology and Infectious Disease,7
+MU-205,Anatomy and Physiology,4
+MU-205,Behavioral and Cognitive Neuroscience,2
+MU-205,Exercise Science,1
+MU-205,Microbiology and Infectious Disease,2
+MU-206,Anatomy and Physiology,3
+MU-206,Behavioral and Cognitive Neuroscience,2
+MU-206,Microbiology and Infectious Disease,3
+MU-217,Anatomy and Physiology,2
+MU-218,Anatomy and Physiology,2
+MU-227,Anatomy and Physiology,2
+MU-228,Anatomy and Physiology,2
+MU-232,Health Promotion,1
+MU-272C,Exercise Science,2
+MU-272E,Anatomy and Physiology,1
+MU-272H,Anatomy and Physiology,3
+MU-272I,Exercise Science,5
+MU-272P,Anatomy and Physiology,3
+MU-272P,Exercise Science,2
+MU-272Q,Anatomy and Physiology,1
+MU-272S,Microbiology and Infectious Disease,3
+MU-272V,Exercise Science,1
+MU-272V,Microbiology and Infectious Disease,1
+MU-274A,Cell and Molecular Neuroscience,3
+MU-274F,Exercise Science,5
+MU-275S,Microbiology and Infectious Disease,1
+MU-275T,Anatomy and Physiology,4
+MU-302,Anatomy and Physiology,3
+MU-302,Exercise Science,2
+MU-302,Microbiology and Infectious Disease,1
+MU-304,Anatomy and Physiology,3
+MU-304,Exercise Science,3
+MU-304,Microbiology and Infectious Disease,5
+MU-305,Anatomy and Physiology,3
+MU-305,Health Promotion,1
+MU-305,Microbiology and Infectious Disease,1
+MU-309,Behavioral and Cognitive Neuroscience,3
+MU-309,Cell and Molecular Neuroscience,4
+MU-309,Exercise Science,5
+MU-310,Behavioral and Cognitive Neuroscience,1
+MU-310,Cell and Molecular Neuroscience,5
+MU-310,Exercise Science,1
+MU-310,Neuroscience,1
+MU-333,Exercise Science,3
+MU-334,Anatomy and Physiology,1
+MU-342,Behavioral and Cognitive Neuroscience,1
+MU-400,Anatomy and Physiology,3
+MU-404,Anatomy and Physiology,2
+MU-404,Health Promotion,2
+MU-404,Microbiology and Infectious Disease,3
+MU-407,Exercise Science,2
+MU-408,Anatomy and Physiology,7
+MU-408,Exercise Science,3
+MU-408,Microbiology and Infectious Disease,3
+MU-465,Exercise Science,2
+MU-472T,Anatomy and Physiology,1
+MU-496I,Health Promotion,1
+MU-496I,Microbiology and Infectious Disease,3
+NB-192,Anatomy and Physiology,4
+NB-192,Behavioral and Cognitive Neuroscience,82
+NB-192,Cell and Molecular Neuroscience,41
+NB-192,Environmental and Public Health,1
+NB-192,Exercise Science,3
+NB-192,Health Promotion,1
+NB-192,Microbiology and Infectious Disease,1
+NB-192,Neuroscience,18
+NB-192,Other,8
+NB-292,Behavioral and Cognitive Neuroscience,31
+NB-292,Cell and Molecular Neuroscience,12
+NB-292,Neuroscience,2
+NB-399,Behavioral and Cognitive Neuroscience,34
+NB-399,Cell and Molecular Neuroscience,27
+NB-399,Other,2
+NB-493,Behavioral and Cognitive Neuroscience,21
+NB-493,Cell and Molecular Neuroscience,15
+NB-493,Other,1
+NB-495,Behavioral and Cognitive Neuroscience,1
+NB-499,Behavioral and Cognitive Neuroscience,21
+NB-499,Cell and Molecular Neuroscience,13
+NB-499,Other,1
+NR-120A,Environmental and Public Health,2
+NR-120A,Exercise Science,2
+NR-120A,Health Promotion,1
+NR-130,Behavioral and Cognitive Neuroscience,1
+NR-130,Environmental and Public Health,1
+NR-130,Exercise Science,5
+NR-130,Health Promotion,3
+NR-150,Anatomy and Physiology,3
+NR-150,Environmental and Public Health,1
+NR-150,Exercise Science,10
+NR-150,Health Promotion,8
+NR-192,Exercise Science,1
+NR-193,Exercise Science,1
+NR-300,Exercise Science,1
+NR-300,Health Promotion,1
+NR-320,Behavioral and Cognitive Neuroscience,1
+NR-320,Exercise Science,1
+NR-320,Neuroscience,1
+NR-370,Anatomy and Physiology,1
+NRRT-231,Microbiology and Infectious Disease,1
+NRRT-250,Microbiology and Infectious Disease,1
+NRRT-262,Microbiology and Infectious Disease,1
+NRRT-270,Exercise Science,2
+NRRT-270,Health Promotion,1
+NRRT-280A3,Exercise Science,1
+NRRT-280A4,Anatomy and Physiology,1
+NRRT-280A4,Exercise Science,1
+NRRT-280A5,Exercise Science,1
+NRRT-320,Exercise Science,1
+NRRT-350,Exercise Science,2
+NRRT-351,Anatomy and Physiology,1
+NRRT-372,Health Promotion,1
+NRRT-495A,Behavioral and Cognitive Neuroscience,1
+NRRT-495C,Behavioral and Cognitive Neuroscience,1
+NSCI-170,Exercise Science,1
+NSCI-193,Behavioral and Cognitive Neuroscience,1
+NSCI-193,Exercise Science,2
+OT-110,Anatomy and Physiology,5
+OT-110,Environmental and Public Health,1
+OT-110,Exercise Science,16
+OT-110,Health Promotion,16
+OT-110,Neuroscience,1
+OT-110,Other,1
+OT-215,Anatomy and Physiology,139
+OT-215,Behavioral and Cognitive Neuroscience,8
+OT-215,Cell and Molecular Neuroscience,8
+OT-215,Environmental and Public Health,2
+OT-215,Exercise Science,253
+OT-215,Health Promotion,105
+OT-215,Microbiology and Infectious Disease,40
+OT-215,Neuroscience,1
+OT-215,Other,13
+OT-355,Anatomy and Physiology,8
+OT-355,Exercise Science,13
+OT-355,Health Promotion,5
+OT-355,Microbiology and Infectious Disease,3
+OT-355,Other,1
+PBHL-516,Environmental and Public Health,1
+PBHL-516,Exercise Science,1
+PBHL-516,Health Promotion,2
+PBHL-516,Other,1
+PBHL-550,Exercise Science,2
+PBHL-550,Health Promotion,2
+PBHL-560,Environmental and Public Health,1
+PBHL-560,Other,1
+PBHL-570,Environmental and Public Health,1
+PBHL-570,Other,1
+PH-110,Anatomy and Physiology,1
+PH-110,Environmental and Public Health,1
+PH-110,Exercise Science,1
+PH-110,Health Promotion,3
+PH-111,Anatomy and Physiology,1
+PH-111,Environmental and Public Health,1
+PH-111,Health Promotion,2
+PH-121,Anatomy and Physiology,639
+PH-121,Behavioral and Cognitive Neuroscience,137
+PH-121,Cell and Molecular Neuroscience,71
+PH-121,Environmental and Public Health,66
+PH-121,Exercise Science,843
+PH-121,Health Promotion,46
+PH-121,Microbiology and Infectious Disease,217
+PH-121,Other,38
+PH-122,Anatomy and Physiology,338
+PH-122,Behavioral and Cognitive Neuroscience,20
+PH-122,Cell and Molecular Neuroscience,61
+PH-122,Environmental and Public Health,6
+PH-122,Exercise Science,241
+PH-122,Health Promotion,4
+PH-122,Microbiology and Infectious Disease,59
+PH-122,Other,4
+PH-141,Anatomy and Physiology,30
+PH-141,Behavioral and Cognitive Neuroscience,8
+PH-141,Cell and Molecular Neuroscience,29
+PH-141,Environmental and Public Health,6
+PH-141,Exercise Science,21
+PH-141,Health Promotion,9
+PH-141,Microbiology and Infectious Disease,16
+PH-141,Neuroscience,3
+PH-141,Other,3
+PH-142,Anatomy and Physiology,7
+PH-142,Cell and Molecular Neuroscience,23
+PH-142,Environmental and Public Health,3
+PH-142,Exercise Science,6
+PH-142,Health Promotion,3
+PHIL-100,Anatomy and Physiology,28
+PHIL-100,Behavioral and Cognitive Neuroscience,7
+PHIL-100,Cell and Molecular Neuroscience,6
+PHIL-100,Environmental and Public Health,4
+PHIL-100,Exercise Science,43
+PHIL-100,Health Promotion,27
+PHIL-100,Microbiology and Infectious Disease,6
+PHIL-100,Neuroscience,1
+PHIL-100,Other,6
+PHIL-103,Anatomy and Physiology,37
+PHIL-103,Behavioral and Cognitive Neuroscience,18
+PHIL-103,Cell and Molecular Neuroscience,6
+PHIL-103,Environmental and Public Health,8
+PHIL-103,Exercise Science,31
+PHIL-103,Health Promotion,19
+PHIL-103,Microbiology and Infectious Disease,12
+PHIL-103,Other,5
+PHIL-110,Anatomy and Physiology,31
+PHIL-110,Behavioral and Cognitive Neuroscience,14
+PHIL-110,Cell and Molecular Neuroscience,8
+PHIL-110,Environmental and Public Health,4
+PHIL-110,Exercise Science,38
+PHIL-110,Health Promotion,15
+PHIL-110,Microbiology and Infectious Disease,10
+PHIL-110,Neuroscience,1
+PHIL-110,Other,9
+PHIL-120,Anatomy and Physiology,4
+PHIL-120,Behavioral and Cognitive Neuroscience,2
+PHIL-120,Cell and Molecular Neuroscience,1
+PHIL-120,Environmental and Public Health,1
+PHIL-120,Exercise Science,3
+PHIL-120,Microbiology and Infectious Disease,1
+PHIL-120,Neuroscience,1
+PHIL-120,Other,1
+PHIL-170,Anatomy and Physiology,11
+PHIL-170,Behavioral and Cognitive Neuroscience,2
+PHIL-170,Cell and Molecular Neuroscience,1
+PHIL-170,Environmental and Public Health,1
+PHIL-170,Exercise Science,8
+PHIL-170,Health Promotion,5
+PHIL-170,Microbiology and Infectious Disease,2
+PHIL-170,Neuroscience,2
+PHIL-171,Behavioral and Cognitive Neuroscience,1
+PHIL-171,Exercise Science,1
+PHIL-171,Microbiology and Infectious Disease,1
+PHIL-171,Neuroscience,1
+PHIL-171,Other,1
+PHIL-172,Anatomy and Physiology,2
+PHIL-172,Behavioral and Cognitive Neuroscience,1
+PHIL-172,Cell and Molecular Neuroscience,1
+PHIL-172,Exercise Science,4
+PHIL-172,Health Promotion,1
+PHIL-172,Microbiology and Infectious Disease,1
+PHIL-174,Behavioral and Cognitive Neuroscience,1
+PHIL-174,Environmental and Public Health,1
+PHIL-174,Exercise Science,2
+PHIL-174,Health Promotion,1
+PHIL-201,Health Promotion,1
+PHIL-205,Exercise Science,1
+PHIL-210,Anatomy and Physiology,2
+PHIL-210,Environmental and Public Health,2
+PHIL-210,Other,1
+PHIL-300,Anatomy and Physiology,1
+PHIL-300,Cell and Molecular Neuroscience,1
+PHIL-300,Environmental and Public Health,1
+PHIL-301,Cell and Molecular Neuroscience,1
+PHIL-301,Environmental and Public Health,1
+PHIL-303,Environmental and Public Health,1
+PHIL-322,Environmental and Public Health,1
+PHIL-325,Environmental and Public Health,1
+PHIL-326,Environmental and Public Health,1
+PHIL-345,Environmental and Public Health,1
+PHIL-345,Exercise Science,1
+PHIL-354,Environmental and Public Health,1
+PHIL-360,Exercise Science,1
+PHIL-411,Cell and Molecular Neuroscience,1
+PHIL-425,Cell and Molecular Neuroscience,1
+PHIL-425,Environmental and Public Health,1
+PHIL-438,Cell and Molecular Neuroscience,1
+PHIL-447,Cell and Molecular Neuroscience,1
+PHIL-525,Environmental and Public Health,1
+PLUG-100,Anatomy and Physiology,13
+PLUG-100,Behavioral and Cognitive Neuroscience,3
+PLUG-100,Cell and Molecular Neuroscience,3
+PLUG-100,Environmental and Public Health,1
+PLUG-100,Exercise Science,14
+PLUG-100,Health Promotion,19
+PLUG-100,Microbiology and Infectious Disease,8
+PLUG-100,Neuroscience,3
+PLUG-100,Other,3
+POLS-101,Anatomy and Physiology,3
+POLS-101,Behavioral and Cognitive Neuroscience,1
+POLS-101,Exercise Science,7
+POLS-101,Health Promotion,1
+POLS-101,Other,2
+POLS-103,Anatomy and Physiology,1
+POLS-103,Cell and Molecular Neuroscience,1
+POLS-103,Exercise Science,1
+POLS-103,Other,1
+POLS-131,Anatomy and Physiology,28
+POLS-131,Behavioral and Cognitive Neuroscience,7
+POLS-131,Cell and Molecular Neuroscience,1
+POLS-131,Environmental and Public Health,2
+POLS-131,Exercise Science,38
+POLS-131,Health Promotion,27
+POLS-131,Microbiology and Infectious Disease,9
+POLS-131,Neuroscience,1
+POLS-131,Other,6
+POLS-160,Exercise Science,2
+POLS-232,Anatomy and Physiology,10
+POLS-232,Behavioral and Cognitive Neuroscience,3
+POLS-232,Cell and Molecular Neuroscience,2
+POLS-232,Exercise Science,10
+POLS-232,Health Promotion,4
+POLS-232,Microbiology and Infectious Disease,2
+POLS-232,Other,1
+POLS-241,Anatomy and Physiology,4
+POLS-241,Cell and Molecular Neuroscience,3
+POLS-241,Environmental and Public Health,1
+POLS-241,Exercise Science,6
+POLS-241,Health Promotion,6
+POLS-241,Microbiology and Infectious Disease,2
+POLS-241,Other,3
+POLS-302,Exercise Science,1
+PSY-100,Anatomy and Physiology,224
+PSY-100,Behavioral and Cognitive Neuroscience,68
+PSY-100,Cell and Molecular Neuroscience,31
+PSY-100,Environmental and Public Health,13
+PSY-100,Exercise Science,559
+PSY-100,Health Promotion,230
+PSY-100,Microbiology and Infectious Disease,40
+PSY-100,Neuroscience,18
+PSY-100,Other,43
+PSY-121,Exercise Science,1
+PSY-152,Anatomy and Physiology,4
+PSY-152,Cell and Molecular Neuroscience,2
+PSY-152,Exercise Science,4
+PSY-152,Health Promotion,5
+PSY-152,Microbiology and Infectious Disease,1
+PSY-152,Neuroscience,1
+PSY-192,Behavioral and Cognitive Neuroscience,4
+PSY-192,Cell and Molecular Neuroscience,2
+PSY-192,Exercise Science,9
+PSY-192,Health Promotion,7
+PSY-210,Behavioral and Cognitive Neuroscience,4
+PSY-210,Cell and Molecular Neuroscience,3
+PSY-210,Exercise Science,5
+PSY-210,Health Promotion,2
+PSY-210,Microbiology and Infectious Disease,1
+PSY-210,Other,1
+PSY-250,Anatomy and Physiology,1
+PSY-250,Behavioral and Cognitive Neuroscience,85
+PSY-250,Cell and Molecular Neuroscience,7
+PSY-250,Exercise Science,7
+PSY-250,Health Promotion,4
+PSY-250,Microbiology and Infectious Disease,2
+PSY-250,Neuroscience,6
+PSY-250,Other,3
+PSY-252,Anatomy and Physiology,11
+PSY-252,Behavioral and Cognitive Neuroscience,103
+PSY-252,Cell and Molecular Neuroscience,47
+PSY-252,Exercise Science,27
+PSY-252,Health Promotion,16
+PSY-252,Microbiology and Infectious Disease,2
+PSY-252,Neuroscience,6
+PSY-252,Other,6
+PSY-260,Anatomy and Physiology,3
+PSY-260,Exercise Science,9
+PSY-260,Health Promotion,3
+PSY-292B,Cell and Molecular Neuroscience,1
+PSY-292C,Behavioral and Cognitive Neuroscience,2
+PSY-292C,Cell and Molecular Neuroscience,1
+PSY-292C,Health Promotion,1
+PSY-295,Behavioral and Cognitive Neuroscience,1
+PSY-300,Anatomy and Physiology,1
+PSY-300,Behavioral and Cognitive Neuroscience,1
+PSY-300,Exercise Science,6
+PSY-300,Health Promotion,3
+PSY-305,Health Promotion,1
+PSY-315,Anatomy and Physiology,1
+PSY-315,Cell and Molecular Neuroscience,1
+PSY-315,Exercise Science,3
+PSY-316,Anatomy and Physiology,1
+PSY-316,Cell and Molecular Neuroscience,1
+PSY-316,Exercise Science,1
+PSY-316,Health Promotion,2
+PSY-317,Cell and Molecular Neuroscience,1
+PSY-317,Exercise Science,1
+PSY-320,Anatomy and Physiology,14
+PSY-320,Behavioral and Cognitive Neuroscience,12
+PSY-320,Cell and Molecular Neuroscience,1
+PSY-320,Environmental and Public Health,1
+PSY-320,Exercise Science,122
+PSY-320,Health Promotion,20
+PSY-320,Microbiology and Infectious Disease,1
+PSY-320,Other,1
+PSY-325,Anatomy and Physiology,2
+PSY-325,Behavioral and Cognitive Neuroscience,2
+PSY-325,Cell and Molecular Neuroscience,1
+PSY-325,Exercise Science,7
+PSY-325,Neuroscience,1
+PSY-327,Behavioral and Cognitive Neuroscience,1
+PSY-328,Anatomy and Physiology,2
+PSY-328,Behavioral and Cognitive Neuroscience,2
+PSY-328,Exercise Science,4
+PSY-328,Microbiology and Infectious Disease,1
+PSY-340,Exercise Science,1
+PSY-341,Exercise Science,1
+PSY-345,Behavioral and Cognitive Neuroscience,1
+PSY-345,Health Promotion,2
+PSY-350,Behavioral and Cognitive Neuroscience,1
+PSY-350,Cell and Molecular Neuroscience,3
+PSY-350,Exercise Science,1
+PSY-352,Behavioral and Cognitive Neuroscience,18
+PSY-352,Cell and Molecular Neuroscience,2
+PSY-352,Exercise Science,1
+PSY-370,Behavioral and Cognitive Neuroscience,1
+PSY-384,Anatomy and Physiology,1
+PSY-384,Behavioral and Cognitive Neuroscience,2
+PSY-384,Cell and Molecular Neuroscience,3
+PSY-384,Exercise Science,3
+PSY-384,Health Promotion,1
+PSY-384,Other,2
+PSY-437,Behavioral and Cognitive Neuroscience,1
+PSY-437,Health Promotion,1
+PSY-452,Behavioral and Cognitive Neuroscience,29
+PSY-452,Cell and Molecular Neuroscience,1
+PSY-452,Other,1
+PSY-453,Behavioral and Cognitive Neuroscience,1
+PSY-453,Cell and Molecular Neuroscience,1
+PSY-454,Behavioral and Cognitive Neuroscience,32
+PSY-454,Other,2
+PSY-455,Behavioral and Cognitive Neuroscience,18
+PSY-455,Other,1
+PSY-456,Behavioral and Cognitive Neuroscience,15
+PSY-456,Exercise Science,1
+PSY-456,Other,1
+PSY-457,Behavioral and Cognitive Neuroscience,12
+PSY-457,Other,1
+PSY-458,Behavioral and Cognitive Neuroscience,36
+PSY-458,Cell and Molecular Neuroscience,2
+PSY-458,Health Promotion,1
+PSY-458,Other,2
+PSY-459,Behavioral and Cognitive Neuroscience,27
+PSY-459,Cell and Molecular Neuroscience,2
+PSY-459,Other,2
+PSY-460,Cell and Molecular Neuroscience,1
+PSY-465,Behavioral and Cognitive Neuroscience,1
+PSY-465,Cell and Molecular Neuroscience,1
+PSY-492A,Cell and Molecular Neuroscience,1
+PSY-492A,Exercise Science,1
+PSY-493,Cell and Molecular Neuroscience,1
+PSY-493,Exercise Science,1
+PSY-495B,Exercise Science,1
+PSY-496B,Behavioral and Cognitive Neuroscience,3
+PSY-496B,Cell and Molecular Neuroscience,1
+PSY-496B,Exercise Science,1
+PSY-496B,Neuroscience,1
+REL-360,Exercise Science,1
+REL-360,Health Promotion,3
+REL-430,Health Promotion,1
+RRM-101,Health Promotion,1
+RRM-280A1,Health Promotion,1
+RRM-400,Exercise Science,2
+RRM-400,Health Promotion,2
+SA-482,Anatomy and Physiology,9
+SA-482,Behavioral and Cognitive Neuroscience,1
+SA-482,Environmental and Public Health,2
+SA-482,Exercise Science,22
+SA-482,Health Promotion,7
+SA-482,Microbiology and Infectious Disease,3
+SA-482,Other,1
+SOC-100,Anatomy and Physiology,59
+SOC-100,Behavioral and Cognitive Neuroscience,10
+SOC-100,Cell and Molecular Neuroscience,3
+SOC-100,Environmental and Public Health,4
+SOC-100,Exercise Science,33
+SOC-100,Health Promotion,21
+SOC-100,Microbiology and Infectious Disease,13
+SOC-100,Neuroscience,1
+SOC-100,Other,5
+SOC-105,Anatomy and Physiology,10
+SOC-105,Behavioral and Cognitive Neuroscience,8
+SOC-105,Cell and Molecular Neuroscience,1
+SOC-105,Environmental and Public Health,4
+SOC-105,Exercise Science,9
+SOC-105,Health Promotion,10
+SOC-105,Microbiology and Infectious Disease,3
+SOC-105,Neuroscience,3
+SOC-105,Other,2
+SOC-205,Anatomy and Physiology,7
+SOC-205,Behavioral and Cognitive Neuroscience,5
+SOC-205,Cell and Molecular Neuroscience,1
+SOC-205,Environmental and Public Health,2
+SOC-205,Exercise Science,16
+SOC-205,Health Promotion,7
+SOC-205,Microbiology and Infectious Disease,1
+SOC-205,Other,2
+SOC-220,Anatomy and Physiology,5
+SOC-220,Behavioral and Cognitive Neuroscience,1
+SOC-220,Cell and Molecular Neuroscience,5
+SOC-220,Environmental and Public Health,2
+SOC-220,Exercise Science,13
+SOC-220,Health Promotion,13
+SOC-220,Microbiology and Infectious Disease,1
+SOC-220,Other,2
+SOC-253,Anatomy and Physiology,5
+SOC-253,Behavioral and Cognitive Neuroscience,2
+SOC-253,Cell and Molecular Neuroscience,1
+SOC-253,Exercise Science,7
+SOC-253,Health Promotion,5
+SOC-253,Microbiology and Infectious Disease,3
+SOC-253,Other,1
+SOC-270,Environmental and Public Health,1
+SOC-270,Health Promotion,1
+SOC-271,Anatomy and Physiology,3
+SOC-271,Health Promotion,1
+SOC-301,Behavioral and Cognitive Neuroscience,1
+SOC-301,Microbiology and Infectious Disease,1
+SOC-302,Anatomy and Physiology,3
+SOC-302,Behavioral and Cognitive Neuroscience,1
+SOC-311,Anatomy and Physiology,1
+SOC-311,Behavioral and Cognitive Neuroscience,1
+SOC-324,Health Promotion,1
+SOC-333,Behavioral and Cognitive Neuroscience,1
+SOC-334,Behavioral and Cognitive Neuroscience,1
+SOC-344,Anatomy and Physiology,1
+SOC-344,Environmental and Public Health,1
+SOC-352,Behavioral and Cognitive Neuroscience,1
+SOC-356,Behavioral and Cognitive Neuroscience,1
+SOC-357,Anatomy and Physiology,1
+SOC-358,Anatomy and Physiology,1
+SOC-372,Anatomy and Physiology,1
+SOC-372,Behavioral and Cognitive Neuroscience,1
+SOC-372,Microbiology and Infectious Disease,1
+SOC-482A,Anatomy and Physiology,1
+SOC-482B,Anatomy and Physiology,1
+SOCR-171,Anatomy and Physiology,2
+SOCR-171,Environmental and Public Health,2
+SOCR-200,Exercise Science,1
+SOCR-240,Exercise Science,2
+SOCR-301,Anatomy and Physiology,1
+SOCR-320,Anatomy and Physiology,1
+SOCR-330,Anatomy and Physiology,275
+SOCR-330,Behavioral and Cognitive Neuroscience,2
+SOCR-330,Environmental and Public Health,9
+SOCR-330,Exercise Science,55
+SOCR-330,Health Promotion,4
+SOCR-330,Microbiology and Infectious Disease,12
+SOCR-330,Other,6
+SOCR-455,Microbiology and Infectious Disease,1
+SOWK-120,Anatomy and Physiology,1
+SOWK-150,Anatomy and Physiology,1
+SOWK-150,Exercise Science,1
+SOWK-150,Health Promotion,3
+SPCM-100,Anatomy and Physiology,49
+SPCM-100,Behavioral and Cognitive Neuroscience,13
+SPCM-100,Cell and Molecular Neuroscience,4
+SPCM-100,Environmental and Public Health,6
+SPCM-100,Exercise Science,128
+SPCM-100,Health Promotion,63
+SPCM-100,Microbiology and Infectious Disease,14
+SPCM-100,Neuroscience,1
+SPCM-100,Other,7
+SPCM-130,Behavioral and Cognitive Neuroscience,2
+SPCM-130,Exercise Science,4
+SPCM-130,Health Promotion,8
+SPCM-130,Microbiology and Infectious Disease,2
+SPCM-130,Neuroscience,2
+SPCM-130,Other,2
+SPCM-200,Anatomy and Physiology,12
+SPCM-200,Cell and Molecular Neuroscience,1
+SPCM-200,Environmental and Public Health,2
+SPCM-200,Exercise Science,387
+SPCM-200,Health Promotion,205
+SPCM-200,Microbiology and Infectious Disease,7
+SPCM-200,Neuroscience,1
+SPCM-200,Other,12
+SPCM-201,Anatomy and Physiology,2
+SPCM-201,Behavioral and Cognitive Neuroscience,5
+SPCM-201,Exercise Science,3
+SPCM-201,Health Promotion,2
+SPCM-207,Health Promotion,1
+SPCM-232,Exercise Science,1
+SPCM-331,Microbiology and Infectious Disease,1
+SPCM-334,Exercise Science,1
+SPCM-337,Anatomy and Physiology,1
+SPCM-341,Health Promotion,1
+SPCM-342,Health Promotion,1
+SPCM-350,Anatomy and Physiology,2
+SPCM-350,Exercise Science,3
+SPCM-357,Anatomy and Physiology,2
+SPCM-358B,Anatomy and Physiology,2
+SPCM-358C,Anatomy and Physiology,2
+SPCM-408,Exercise Science,1
+SPCM-486B,Health Promotion,1
+SPMT-201,Exercise Science,4
+SPMT-201,Health Promotion,9
+SPMT-240,Exercise Science,1
+SPMT-240,Health Promotion,5
+SPMT-314,Health Promotion,3
+SPMT-339,Exercise Science,1
+SPMT-339,Health Promotion,4
+SPMT-487,Health Promotion,3
+STAR-511,Microbiology and Infectious Disease,1
+STAT-100,Health Promotion,2
+STAT-100,Neuroscience,1
+STAT-100,Other,1
+STAT-158,Anatomy and Physiology,1
+STAT-158,Behavioral and Cognitive Neuroscience,1
+STAT-158,Cell and Molecular Neuroscience,2
+STAT-158,Health Promotion,1
+STAT-158,Microbiology and Infectious Disease,2
+STAT-192,Health Promotion,1
+STAT-201,Anatomy and Physiology,5
+STAT-201,Cell and Molecular Neuroscience,1
+STAT-201,Exercise Science,112
+STAT-201,Health Promotion,212
+STAT-201,Microbiology and Infectious Disease,4
+STAT-201,Other,9
+STAT-204,Anatomy and Physiology,4
+STAT-204,Exercise Science,4
+STAT-204,Health Promotion,2
+STAT-204,Other,1
+STAT-301,Anatomy and Physiology,172
+STAT-301,Behavioral and Cognitive Neuroscience,37
+STAT-301,Cell and Molecular Neuroscience,19
+STAT-301,Environmental and Public Health,14
+STAT-301,Exercise Science,179
+STAT-301,Health Promotion,46
+STAT-301,Microbiology and Infectious Disease,44
+STAT-301,Other,10
+STAT-302A,Exercise Science,2
+STAT-302A,Health Promotion,1
+STAT-307,Anatomy and Physiology,72
+STAT-307,Behavioral and Cognitive Neuroscience,29
+STAT-307,Cell and Molecular Neuroscience,17
+STAT-307,Environmental and Public Health,15
+STAT-307,Exercise Science,24
+STAT-307,Health Promotion,4
+STAT-307,Microbiology and Infectious Disease,28
+STAT-307,Neuroscience,1
+STAT-307,Other,2
+STAT-315,Anatomy and Physiology,1
+STAT-315,Cell and Molecular Neuroscience,3
+STAT-315,Exercise Science,2
+STAT-331,Behavioral and Cognitive Neuroscience,1
+STAT-341,Behavioral and Cognitive Neuroscience,1
+STAT-341,Cell and Molecular Neuroscience,1
+STAT-341,Microbiology and Infectious Disease,1
+STAT-342,Behavioral and Cognitive Neuroscience,1
+STAT-342,Cell and Molecular Neuroscience,1
+STAT-342,Microbiology and Infectious Disease,1
+STAT-384,Microbiology and Infectious Disease,1
+STAT-420,Cell and Molecular Neuroscience,1
+STAT-420,Microbiology and Infectious Disease,1
+STAT-460,Cell and Molecular Neuroscience,1
+STAT-495,Health Promotion,1
+TH-141,Anatomy and Physiology,5
+TH-141,Behavioral and Cognitive Neuroscience,1
+TH-141,Cell and Molecular Neuroscience,1
+TH-141,Exercise Science,9
+TH-141,Health Promotion,8
+TH-141,Microbiology and Infectious Disease,1
+TH-400,Exercise Science,2
+VMBS-100,Anatomy and Physiology,814
+VMBS-100,Behavioral and Cognitive Neuroscience,2
+VMBS-100,Environmental and Public Health,80
+VMBS-100,Exercise Science,44
+VMBS-100,Health Promotion,12
+VMBS-100,Microbiology and Infectious Disease,238
+VMBS-100,Other,42
+VMBS-101,Anatomy and Physiology,1
+VMBS-165,Anatomy and Physiology,5
+VMBS-165,Behavioral and Cognitive Neuroscience,1
+VMBS-165,Microbiology and Infectious Disease,4
+VMBS-165,Neuroscience,1
+VMBS-180A1,Anatomy and Physiology,2
+VMBS-180A2,Anatomy and Physiology,3
+VMBS-180A2,Microbiology and Infectious Disease,2
+VMBS-192,Anatomy and Physiology,29
+VMBS-192,Behavioral and Cognitive Neuroscience,5
+VMBS-192,Microbiology and Infectious Disease,18
+VMBS-192,Neuroscience,3
+VMBS-192,Other,1
+VMBS-480A1,Cell and Molecular Neuroscience,1
+VMBS-480A1,Environmental and Public Health,1
+VS-331,Anatomy and Physiology,5
+VS-331,Cell and Molecular Neuroscience,1
+VS-331,Exercise Science,1
+VS-331,Microbiology and Infectious Disease,6
+VS-333,Anatomy and Physiology,1
+VS-333,Microbiology and Infectious Disease,2
+VS-495,Anatomy and Physiology,7
+VS-495,Behavioral and Cognitive Neuroscience,1
+VS-495,Cell and Molecular Neuroscience,1
+VS-495,Exercise Science,1
+VS-495,Microbiology and Infectious Disease,6
+VS-533,Other,1
+WR-204,Exercise Science,1
+WR-204,Health Promotion,1
+WS-200,Anatomy and Physiology,5
+WS-200,Behavioral and Cognitive Neuroscience,1
+WS-200,Exercise Science,1
+WS-200,Health Promotion,4
+WS-200,Microbiology and Infectious Disease,1
+WS-270,Behavioral and Cognitive Neuroscience,1
+WS-270,Exercise Science,2
+WS-397,Microbiology and Infectious Disease,1
+WS-472,Anatomy and Physiology,1
+WS-495,Exercise Science,2
