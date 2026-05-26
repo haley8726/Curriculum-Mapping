@@ -12,6 +12,7 @@ st.session_state.log_messages = []
 
 # ✅ Log function
 def log(section, message, level="INFO"):
+    import datetime
     time = datetime.datetime.now().strftime("%H:%M:%S")
     st.session_state.log_messages.append(
         f"[{time}] [{level}] [{section}] {message}"
@@ -143,6 +144,10 @@ agg = (
 # CLASS LEVEL ORDER
 # ------------------------------
 level_order = ["Freshman", "Sophomore", "Junior", "Senior"]
+#-----new idea------
+year_order = ["Year 1", "Year 2", "Year 3", "Year 4", "Year 5+"]
+#-----
+
 
 df["term_class_level"] = pd.Categorical(
     df["term_class_level"],
@@ -185,6 +190,13 @@ agg = (
     .reset_index(name="total_enrollments")
 )
 log("SELECT", f"Course selected: {selected_course}")
+
+log("SYSTEM", "Initializing dashboard")
+log("SYSTEM", "Applying filters")
+
+log("SESSION", f"Course selected: {selected_course}")
+log("SESSION", f"Term range: {start_term} → {end_term}")
+log("SESSION", f"Component: {section_filter}")
 # ============================================================
 # ✅ GRAPH 1: TIMING BY MAJOR
 # ============================================================
@@ -199,10 +211,17 @@ st.markdown(
     "This helps identify when different majors typically complete the course."
 )
 
-log("GRAPH 1", f"Building timing distribution (rows={len(filtered_df)})")
+log("GRAPH 1", "→ filtering dataset")
+log("GRAPH 1", f"Rows after filtering: {len(filtered_df)}")
+
+log("GRAPH 1", "→ grouping by major and class level")
+log("GRAPH 1", "→ calculating totals")
+
+log("GRAPH 1", "→ computing percentages")
+log("GRAPH 1", "→ rendering chart", "SUCCESS")
 
 timing_df = filtered_df.groupby(
-    ["major_group", "term_class_level"],
+    ["major_group", "true_class_level"],
     observed=False
 ).size().reset_index(name="total_enrollments")
 timing_df["label"] = timing_df["total_enrollments"].apply(
@@ -220,12 +239,12 @@ else:
 
     fig1 = px.bar(
         timing_df,
-        x="term_class_level",
+        x="true_class_level",
         y="percent",
         color="major_group",
         text="label",
         barmode="group",
-        category_orders={"term_class_level": level_order},
+        category_orders={"true_class_level": level_order},
         color_discrete_map=major_colors
     )
 
@@ -245,7 +264,12 @@ st.markdown(
     "Percentages are calculated within each major, allowing comparison of performance patterns. "
     "Use this to see whether certain majors tend to perform better or worse in this course."
 )
-log("GRAPH 2", f"Building grade distribution (rows={len(filtered_df)})")
+log("GRAPH 2", "→ grouping grade data")
+log("GRAPH 2", f"Rows processed: {len(filtered_df)}")
+
+log("GRAPH 2", "→ calculating distributions")
+log("GRAPH 2", "→ rendering chart", "SUCCESS")
+
 grade_df = filtered_df.groupby(
     ["major_group", "course_grade"],
     observed=False
@@ -304,7 +328,13 @@ filtered_major_df = filtered_df.copy()
 filtered_major_df["attempt_type"] = filtered_major_df["attempt_number"].apply(
     lambda x: "First Attempt" if x == 1 else "Repeat"
 )
-log("GRAPH 3", f"Splitting attempts (rows={len(filtered_major_df)})")
+log("GRAPH 3", "→ splitting attempt types")
+log("GRAPH 3", f"Rows processed: {len(filtered_major_df)}")
+
+log("GRAPH 3", "→ grouping by class level and grade")
+log("GRAPH 3", "→ computing percentages")
+
+log("GRAPH 3", "→ rendering chart", "SUCCESS")
 
 if selected_major != "All":
     filtered_major_df = filtered_major_df[
@@ -312,7 +342,7 @@ if selected_major != "All":
     ]
 
 timing_grade_df = filtered_major_df.groupby(
-    ["term_class_level", "course_grade", "attempt_type"],
+    ["true_class_level", "course_grade", "attempt_type"],
     observed=False
 ).size().reset_index(name="total_enrollments")
 # ✅ Add clean labels (hide zeros)
@@ -323,33 +353,35 @@ timing_grade_df = timing_grade_df[timing_grade_df["total_enrollments"] > 0]
 
 # ✅ Enforce correct class level order (Graph 3)
 level_order = ["Freshman", "Sophomore", "Junior", "Senior"]
+#new idea ----
+# ✅ Enforce academic year order (Graph 3)
+year_order = ["Year 1", "Year 2", "Year 3", "Year 4", "Year 5+"]
 
-timing_grade_df["term_class_level"] = pd.Categorical(
-    timing_grade_df["term_class_level"],
+timing_grade_df["true_class_level"] = pd.Categorical(
+    timing_grade_df["true_class_level"],
     categories=level_order,
     ordered=True
 )
-
-
+#-----------
 if timing_grade_df.empty:
     st.warning("No data available for selected filters.")
 else:
     timing_grade_df["total_per_level"] = timing_grade_df.groupby(
-        "term_class_level"
+        "true_class_level"
     )["total_enrollments"].transform("sum")
 
     timing_grade_df["percent"] = timing_grade_df["total_enrollments"] / timing_grade_df["total_per_level"] * 100
 
     fig3 = px.bar(
     timing_grade_df,
-    x="term_class_level",
+    x="true_class_level",
     y="percent",
     color="course_grade",
     text="label",
     barmode="group",
     facet_col="attempt_type",   # ✅ THIS IS THE KEY CHANGE
     category_orders={
-    "term_class_level": level_order,   # ✅ THIS FIXES YOUR AXIS
+    "true_class_level": level_order,   # ✅ THIS FIXES YOUR AXIS
     "course_grade": grade_order,
     "attempt_type": ["First Attempt", "Repeat"]},
     color_discrete_map=grade_colors
@@ -383,11 +415,15 @@ load_df = filtered_df.copy()
 
 # ✅ Filter to selected course
 load_df = load_df[load_df["course_key"] == selected_course]
-log("GRAPH 4", f"Computing credit load bins (rows={len(load_df)})")
+#initial log state
+log("GRAPH 4", "→ preparing credit load data")
+log("GRAPH 4", f"Rows before filtering: {len(load_df)}")
+
 # ✅ Filter by major
 if selected_major_load != "All":
     load_df = load_df[load_df["major_group"] == selected_major_load]
 
+log("GRAPH 4", f"Rows after major filter: {len(load_df)}")
 # ✅ Term filter UI FIRST
 with st.expander("Filter Semesters", expanded=False):
 
@@ -404,7 +440,11 @@ load_df = load_df[load_df["term_label"].isin(selected_terms_for_load)]
 
 st.caption(f"{len(selected_terms_for_load)} of {len(all_terms)} semesters selected")
 
+log("GRAPH 4", f"Rows after term filter: {len(load_df)}")
+
 load_df = load_df[load_df["term_credit_load"].notna()]
+
+log("GRAPH 4", "→ creating credit load bins")
 # ✅ Create credit load bins
 load_df["credit_load_bin"] = pd.cut(
     load_df["term_credit_load"],
@@ -417,13 +457,17 @@ credit_perf_df = load_df.groupby(
     ["credit_load_bin", "course_grade"]
 ).size().reset_index(name="count")
 
+log("GRAPH 4", f"Rows after binning: {len(credit_perf_df)}")
+
 credit_perf_df["label"] = credit_perf_df["count"].apply(
     lambda x: f"n={x}" if x > 0 else ""
 )
 # ✅ Handle empty case
 if credit_perf_df.empty:
+    log("GRAPH 4", "No data available after filtering", "WARNING")
     st.warning("No data available for selected filters.")
 else:
+    log("GRAPH 4", "→ computing percentages")
     credit_perf_df["total"] = credit_perf_df.groupby("credit_load_bin")["count"].transform("sum")
     credit_perf_df["percent"] = credit_perf_df["count"] / credit_perf_df["total"] * 100
 
@@ -435,6 +479,9 @@ else:
         "D": "#a50026", "F": "#67001f", "W": "#bdbdbd"
     }
     credit_order = ["0-6", "7-12", "13-15", "16-18", "19+"]
+
+    log("GRAPH 4", "→ rendering chart", "SUCCESS")
+
     fig4 = px.bar(
     credit_perf_df,
     x="credit_load_bin",
@@ -452,13 +499,23 @@ else:
     fig4.update_traces(textposition='outside')
 
     st.plotly_chart(fig4, use_container_width=True)
+
 with st.sidebar:
     st.markdown("### 🖥️ Debug Terminal")
 
     log_text = "\n".join(reversed(st.session_state.log_messages[-40:]))
 
-    st.text_area(
-        "Execution Log",
-        value=log_text,
-        height=400
+    st.markdown(
+        f"""
+        <pre style="
+            color: #00FF00;
+            background-color: black;
+            padding: 12px;
+            border-radius: 5px;
+            font-size: 12px;
+        ">
+        {log_text}
+        </pre>
+        """,
+        unsafe_allow_html=True
     )

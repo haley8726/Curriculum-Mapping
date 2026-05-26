@@ -116,12 +116,32 @@ df = courses.merge(
         "class_level",
         "major",
         "csu_credits_at_time",
-        "all_credits_at_time"
+        "all_credits_at_time",
+        "transfer_credits"
     ]],
     on=["student_id_hash", "term"],
     how="left"
 )
 
+# -----------------------------------
+# TRUE CLASS LEVEL (CREDIT-BASED) ✅✅✅
+# -----------------------------------
+def assign_true_class(credits):
+    if credits < 30:
+        return "Freshman"
+    elif credits < 60:
+        return "Sophomore"
+    elif credits < 90:
+        return "Junior"
+    else:
+        return "Senior"
+
+df["true_class_level"] = df["all_credits_at_time"].apply(assign_true_class)
+
+# -----------------------------------
+# TRANSFER FLAG ✅
+# -----------------------------------
+df["is_transfer_student"] = df["transfer_credits"] > 0
 # -----------------------------------
 # MERGE PROGRAM CODE ✅ (SAFE VERSION)
 # -----------------------------------
@@ -154,8 +174,10 @@ df = df.loc[:, ~df.columns.duplicated()]
 if "class_level" in df.columns:
     df["term_class_level"] = df["class_level"]
 
-cols_to_drop = [col for col in df.columns if "class_level" in col and col != "term_class_level"]
-df = df.drop(columns=cols_to_drop)
+cols_to_drop = [
+    col for col in df.columns
+    if col == "class_level"
+]
 
 # -----------------------------------
 # CLEAN COLUMN NAMES
@@ -187,6 +209,20 @@ df["attempt_number"] = df.groupby(
 
 df["is_repeat"] = df["attempt_number"] > 1
 
+#-----new idea-----
+# ✅ SEMESTER NUMBER
+df["semester_number"] = df.groupby("student_id_hash")[
+    "term_order"
+].rank(method="dense").astype(int)
+
+# ✅ ACADEMIC YEAR
+df["academic_year"] = ((df["semester_number"] - 1) // 2) + 1
+
+# ✅ CLEAN LABEL
+df["academic_year_label"] = df["academic_year"].apply(
+    lambda x: f"Year {x}" if x <= 4 else "Year 5+"
+)
+#--------------
 # -----------------------------------
 # SEMESTER CREDIT LOAD ✅
 # -----------------------------------
@@ -208,12 +244,16 @@ final_df = df[[
     "attempt_number",
     "is_repeat",
     "term_class_level",
+    "true_class_level",
     "major_at_time",
     "major_group",
     "term_credit_load",
     "csu_credits_at_time",
     "all_credits_at_time",
     "course_component",
+    "semester_number",
+"academic_year_label",
+"is_transfer_student"
 ]].copy()
 
 final_df = final_df.rename(columns={
