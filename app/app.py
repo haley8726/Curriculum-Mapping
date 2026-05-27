@@ -22,7 +22,11 @@ st.set_page_config(layout="wide")
 # ------------------------------
 # LOAD DATA ✅
 # ------------------------------
-df = pd.read_csv("student_course_trajectory.csv", low_memory=False)
+import os
+
+DATA_PATH = os.path.join(os.path.dirname(__file__), "student_course_trajectory.csv")
+df = pd.read_csv(DATA_PATH, low_memory=False)
+
 df.columns = df.columns.str.strip()
 
 log("LOAD", "Dataset initialized")
